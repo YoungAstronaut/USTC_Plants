@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:layout_width="220dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:hint="搜你所想了解的内容"
+        android:textColor="@color/black"
+        android:paddingLeft="40dp"
+        android:selectAllOnFocus="true"
+        android:textSize="15dp"
+        android:background="@drawable/searching_bar"
+        android:id="@+id/sbr_input"
+        />
+
+    <ImageButton
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/searching"
+        android:scaleType="fitCenter"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="210dp"
+        android:id="@+id/sbr_click"
+        android:background="@color/white"
+        android:layout_gravity="center_horizontal"/>
+
+    <ListView
+        android:id="@+id/list_view"
+        android:layout_width="match_parent"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_height="match_parent"
+        android:layout_below="@id/sbr_input"
+        android:layout_marginTop="20dp"/>
+
+</RelativeLayout>

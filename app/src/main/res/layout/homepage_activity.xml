@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/plants_icon"
+        android:id="@+id/plantsIcon"
+        android:paddingLeft="25dp"
+        android:paddingTop="25dp"
+        android:background="@color/white"
+        android:scaleType="fitCenter"/>
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_toRightOf="@+id/plantsIcon"
+        android:id="@+id/mapIcon"
+        android:src="@drawable/map_icon"
+        android:paddingLeft="25dp"
+        android:paddingTop="25dp"
+        android:background="@color/white"
+        android:scaleType="fitCenter"/>
+
+</RelativeLayout>

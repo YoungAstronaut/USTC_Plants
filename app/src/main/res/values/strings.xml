@@ -1,0 +1,3118 @@
+<resources>
+    <string name="app_name">科大植物</string>
+    <string name="introduction_default">no </string>
+    <string name="title_home">
+		主页
+	</string>
+    <string name="title_plants">
+		图鉴
+	</string>
+    <string name="title_map">
+		地图
+	</string>
+    <string name="title_my">
+		我的
+	</string>
+    <string name="name">
+		这是植物的名字
+	</string>
+    <string name="species">
+		科属：
+	</string>
+    <string name="_species">
+		这是植物的科属
+	</string>
+    <string name="feature">
+		特征简介：
+	</string>
+    <string name="_feature">
+		这是植物的特征简介
+	</string>
+    <string name="values">
+		利用价值：
+	</string>
+    <string name="_values">
+		这是植物的利用价值
+	</string>
+    <string name="location">
+		物种分布
+	</string>
+    <string name="_location">
+		这是植物的物种分布
+	</string>
+    <string name="supplement">
+		其他：
+	</string>
+    <string name="_supplement">
+		这是植物的其他信息
+	</string>
+
+    <string name="_1name">
+		苏铁
+	</string>
+    <string name="_1species">
+		苏铁科	苏铁属
+	</string>
+    <string name="_1feature">
+		常绿木本。树干柱状，不分枝，有螺旋状排列的菱形叶柄残痕。羽状叶长75~l20厘米，羽状裂片达100对条形，厚革质，向上斜展微成“V”字形，边缘向下反卷，先端锐尖。雌雄异株；花序密被黄褐色绒毛；雄球花圆柱形；雌球花序扁球形，大抱子叶羽状裂。种子红色。花期6~7月，种子11月成熟。
+	</string>
+    <string name="_1values">
+		因株形优美，四季常行，为优良的观赏树种。茎内淀粉可食用；叶和种子可入药。
+	</string>
+    <string name="_1location">
+		西区图书馆门前有栽培。分布千我国南部地区。
+	</string>
+    <string name="_1supplement">
+		在江淮地区，苏铁需在温室越冬，现因气候变暖和城市热岛效应，偶见姑天栽培。
+	</string>
+    <string name="_1nickname">
+		暂无
+	</string>
+
+    <string name="_2name">
+		银杏
+	</string>
+    <string name="_2species">
+		银杏科	银杏属
+	</string>
+    <string name="_2feature">
+		落叶乔木，喜光树种。枝近轮生，雄株主枝斜上伸展（雌株主枝常较水平开展）。叶扇形，顶端2裂，叶脉二歧状；叶在一年生长枝上螺旋状散生，在短枝上簇生。球花单性，雌雄异株；雄球花下垂，柔萸花序状，雌球花具长梗梗端常分两叉，每叉顶生1枚胚珠。花期3-4月，种子9~l0月成熟。
+	</string>
+    <string name="_2values">
+		叶形独特，秋季叶色金黄而美丽，常栽培观赏。种子供食用及药用，肉质外种皮有毒。
+	</string>
+    <string name="_2location">
+		校园常见。仅浙江天R山有野生。
+	</string>
+    <string name="_2supplement">
+		“银杏”指种子未熟时外被白色蜡粉，像银色的杏子，树名由此而来。种子成熟后呈金黄色。实际上，银杏只有种子，无果实，是裸千植物。为中生代子遗的稀有树种，我国特有。
+	</string>
+    <string name="_2nickname">
+		暂无
+	</string>
+
+    <string name="_3name">
+		黑松
+	</string>
+    <string name="_3species">
+		松科	松属
+	</string>
+    <string name="_3feature">
+		乔木。冬芽灰白色。针叶2针一束，深绿色，有光泽，粗硬，长6~12厘米。雄球花聚生千新枝下部；雌球花单生或2~3枚聚生千新枝近顶端。球果熟时褐色，圆锥状卵圆形，有短梗，向下弯垂；中部种鳞卵状椭圆形，鳞盾微肥厚，横脊显著，鳞跻微凹，有短刺；种子有翅。花期牛5月，球果翌年10月成熟。
+	</string>
+    <string name="_3values">
+		暂无。
+	</string>
+    <string name="_3location">
+		西区第三教学楼旁栽培。原产下门本及朝鲜南部海岸地区。
+	</string>
+    <string name="_3supplement">
+		东区石榴园栽植有火炬松，针叶常3针一束，长15~25厘米，粗壮刚硬，三棱形稍螺旋扭转，叶缘具微细锯齿；树脂逍2，中生；叶宿存3~4年。球果腋生，无梗，两个对生，鳞跻延伸成外突的尖刺。速生造林树种，生产木材和树脂。因路面硬化不透气，长势不良，建议校绿化部门对其加强管护。
+	</string>
+    <string name="_3nickname">
+		白芽松
+	</string>
+
+    <string name="_4name">
+		日本五针松
+	</string>
+    <string name="_4species">
+		松科	松属
+	</string>
+    <string name="_4feature">
+		乔木。幼树树皮平滑，一年生枝幼嫩时绿色，后呈黄褐色，密生淡黄色柔毛；冬芽卵圆形。针叶5针一束，微弯曲，长3.5-5.5厘米直径不到1毫米；叶鞘早落。球果卵圆形或卵状椭圆形，鳞跻凹下。种子为不规则倒卵圆形，近褐色，有翅。花期5月，球果翌年6月成熟。
+	</string>
+    <string name="_4values">
+		因四季常青而作园林绿化观赏。
+	</string>
+    <string name="_4location">
+		西区也西湖旁边及东区第五教学楼旁边有栽培。原产于日本。我国长江流域普遍引种栽培。
+	</string>
+    <string name="_4supplement">
+		暂无。
+	</string>
+    <string name="_4nickname">
+		日本五须松、五钗松
+	</string>
+
+    <string name="_5name">
+		日本冷杉
+	</string>
+    <string name="_5species">
+		松科	冷杉属
+	</string>
+    <string name="_5feature">
+		常绿乔木。树皮裂成鳞片状。叶条形，长2~3 厘米，螺 旋状着生，基部扭仙排成两列，叶 尖微凹，中脉内凹，叶背具2 条气孔带。球果圆柱形，长 1炉 15厘米，成 熟时黄褐色或灰褐色，苞鳞外露，先端急尖； 种翅较种子为长。花期 4~5 月，球果成熟期 10 月。
+	</string>
+    <string name="_5values">
+		因树姿优美，叶位整齐有序，四季常绿，为优良观赏树种。
+	</string>
+    <string name="_5location">
+		东区图书馆东侧栽有1棵。原产于日本。我国大部分地区有栽培。
+	</string>
+    <string name="_5supplement">
+		该种自1929年引入上海和南京。校园仅有1棵，建议加强保护和繁育。
+	</string>
+    <string name="_5nickname">
+		暂无
+	</string>
+
+    <string name="_6name">
+		雪松
+	</string>
+    <string name="_6species">
+		松科	雪松属
+	</string>
+    <string name="_6feature">
+		常绿乔木。枝平展。针形叶，在长枝上辐射状伸展，短枝上成簇生状，坚硬，浅绿色或深绿色。雄球花长卵圆形或椭圆状卵圆形，长2~3厘米。球果熟时红褐色，卵圆形或宽椭圆形，有短梗；苞鳞短小；种翅宽大。花期2~3月，球果翌年10月成熟。
+	</string>
+    <string name="_6values">
+		终年常绿，树形优美，常作园林绿化观赏。可作木材。
+	</string>
+    <string name="_6location">
+		校园常见行道树。原产千西亚。我国普遍引种栽培。
+	</string>
+    <string name="_6supplement">
+		暂无。
+	</string>
+    <string name="_6nickname">
+		香柏
+	</string>
+
+    <string name="_7name">
+		杉木
+	</string>
+    <string name="_7species">
+		杉科	杉木属
+	</string>
+    <string name="_7feature">
+		常绿乔木。叶在主枝上辐射状伸展，侧枝的叶基部扭转成2列，披针形或条状披针形，通常微弯，呈濂状，革质，有光泽。雄球花圆锥状，通常40余枚簇生千枝顶；雌球花单生或2~3枚集生，绿色。球果卵圆形，熟时苞鳞革质，棕黄色，三角状卵形，先端有坚硬的刺状尖头，边缘有不规则的锯齿。花期4月，球果10月下旬成熟。
+	</string>
+    <string name="_7values">
+		常作木材。树皮含单宁。
+	</string>
+    <string name="_7location">
+		东区校史馆附近偶有栽培。分布于我国秦岭至淮河流域以南地区。
+	</string>
+    <string name="_7supplement">
+		＂杉”为多音字，作物种名时，读“shan”。
+	</string>
+    <string name="_7nickname">
+		刺杉、杉
+	</string>
+
+    <string name="_8name">
+		水杉
+	</string>
+    <string name="_8species">
+		杉科	水杉属
+	</string>
+    <string name="_8feature">
+		落叶乔木。树干基部常膨大，树皮灰色、灰褐色，树冠尖塔形。叶条形，幼时绿色，排成2列，叶和种鳞均对生；侧生小枝连叶千冬季脱落。球果的种鳞盾形，木质，中央有一条横槽；种子扁平，周围有翅。花期2月下旬，球果11月成熟。
+	</string>
+    <string name="_8values">
+		因树姿优美，环境适应性强，现广泛用于园林绿化。可作木材。
+	</string>
+    <string name="_8location">
+		校园常见。湖北利川、湖南龙山等地有野生。为我国特有的古老珍贵树种。
+	</string>
+    <string name="_8supplement">
+		暂无。
+	</string>
+    <string name="_8nickname">
+		暂无
+	</string>
+
+    <string name="_9name">
+		池杉
+	</string>
+    <string name="_9species">
+		杉科	落羽杉属
+	</string>
+    <string name="_9feature">
+		落叶乔木。树干基部膨大，树皮褐色，纵裂，枝条向上伸展，树冠呈圆锥形。叶钻形，在枝上螺旋状伸展。球果圆球形，熟时褐黄色。花期3---4月，球果10月成熟。
+	</string>
+    <string name="_9values">
+		耐水湿，可用作低湿地的造林树种或作庭院树。可作木材。
+	</string>
+    <string name="_9location">
+		多见于西区也西湖中，东区偶见栽培。原产千北美洲东南部。
+	</string>
+    <string name="_9supplement">
+		秋冬季节叶变为橙黄色，极具观赏价值。
+	</string>
+    <string name="_9nickname">
+		暂无
+	</string>
+
+    <string name="_10name">
+		圆柏
+	</string>
+    <string name="_10species">
+		柏科	刺柏属
+	</string>
+    <string name="_10feature">
+		叶两型，深绿色；刺叶常3叶轮生，排列疏松；鳞叶交互对生或3叶轮生。雌雄异株。球果近圆球形，翌年成熟。
+	</string>
+    <string name="_10values">
+		材质优良，坚硬耐腐；也可绿化观赏。
+	</string>
+    <string name="_10location">
+		东区眼镜湖边和图书馆附近有栽培。分布于我国大部分地区。
+	</string>
+    <string name="_10supplement">
+		暂无。
+	</string>
+    <string name="_10nickname">
+		暂无
+	</string>
+
+    <string name="_11name">
+		铺地柏
+	</string>
+    <string name="_11species">
+		柏科	圆柏属
+	</string>
+    <string name="_11feature">
+		常绿甸匐灌木。枝条沿地面扩展，密生小枝。刺形叶，3叶交叉轮生，条状披针形，先端渐尖成角质的锐尖头，基部具2白点。球果近球形，被臼粉，成熟时黑色，直径8~9毫米；有2~3粒种子，长约4毫米，有棱脊。
+	</string>
+    <string name="_11values">
+		栽培作观赏树。
+	</string>
+    <string name="_11location">
+		西区第三教学楼水池边和图书馆前花坛有栽培。原产于日本。
+	</string>
+    <string name="_11supplement">
+		暂无。
+	</string>
+    <string name="_11nickname">
+		暂无
+	</string>
+
+    <string name="_12name">
+		北美圆柏
+	</string>
+    <string name="_12species">
+		柏科	圆柏属
+	</string>
+    <string name="_12feature">
+		暂无。
+	</string>
+    <string name="_12values">
+		园林绿化。
+	</string>
+    <string name="_12location">
+		校园常见栽培。原产于北美。
+	</string>
+    <string name="_12supplement">
+		暂无。
+	</string>
+    <string name="_12nickname">
+		暂无
+	</string>
+
+    <string name="_13name">
+		美国香柏
+	</string>
+    <string name="_13species">
+		柏科	崖柏属
+	</string>
+    <string name="_13feature">
+		暂无。
+	</string>
+    <string name="_13values">
+		因树形优美挺拔，四季常青，可净化空气，为绿化观赏的极品。木材耐腐，树枝可提炼柏油。
+	</string>
+    <string name="_13location">
+		东区四牌楼路北侧多有栽培。原产于北美。我国华东地区有栽培。园艺品种较多。
+	</string>
+    <string name="_13supplement">
+		暂无。
+	</string>
+    <string name="_13nickname">
+		暂无
+	</string>
+
+    <string name="_14name">
+		侧柏
+	</string>
+    <string name="_14species">
+		柏科	侧柏属
+	</string>
+    <string name="_14feature">
+		常绿乔木。生鳞叶的小枝细，向上直展或斜升，扁平，排成一平面。叶鳞形，小枝中央的叶的露出部分呈倒卵状菱形或斜方形。雄球花黄色，卵圆形，长约2毫米；雌球花近球形，蓝绿色，被白粉。球果近卵圆形，成熟后木质，开裂，红褐色；种子卵圆形或近椭圆形，灰褐色或紫褐色。花期3~4月，球果10月成熟。
+	</string>
+    <string name="_14values">
+		常绿化栽培。可入药，也可作木材。
+	</string>
+    <string name="_14location">
+		校园常见行道树。分布于我国大部分地区。
+	</string>
+    <string name="_14supplement">
+		暂无。
+	</string>
+    <string name="_14nickname">
+		暂无
+	</string>
+
+    <string name="_15name">
+		柏木
+	</string>
+    <string name="_15species">
+		柏科	柏木属
+	</string>
+    <string name="_15feature">
+		常绿乔木。小枝细长下垂，生鳞叶的小枝扁平，排成一平面。鳞叶先端尖，中间的叶背部有条状腺点，两侧的叶对折，背部有棱脊。球果圆球形，直径8~12毫米，熟时暗褐色。花期3~5月，球果次年5~6月成熟。
+	</string>
+    <string name="_15values">
+		树形优美，为优良绿化树种。材质优良。枝叶可提芳香油，并可入药。
+	</string>
+    <string name="_15location">
+		东区老图书馆周围有栽培。为我国特有树种，分布于中部和西南等地。
+	</string>
+    <string name="_15supplement">
+		暂无。
+	</string>
+    <string name="_15nickname">
+		柏、柏树
+	</string>
+
+    <string name="_16name">
+		日本花柏
+	</string>
+    <string name="_16species">
+		柏科	扁柏属
+	</string>
+    <string name="_16feature">
+		常绿乔木。树皮红褐色，裂成条状薄片脱落。小枝条扁平，排成一平面。鳞叶交替对生，先端锐尖，叶背基部密被白粉。球果圆球形，直径约6毫米，熟时暗褐色。花期4月，球果深秋成熟。
+	</string>
+    <string name="_16values">
+		四季常青，为优良观赏树种。
+	</string>
+    <string name="_16location">
+		东区石榴园凉亭旁有栽培。原产日本。我国部分地区有栽培。
+	</string>
+    <string name="_16supplement">
+		暂无。
+	</string>
+    <string name="_16nickname">
+		暂无
+	</string>
+
+    <string name="_17name">
+		罗汉松
+	</string>
+    <string name="_17species">
+		罗汉松科	罗汉松属
+	</string>
+    <string name="_17feature">
+		常绿小乔木。叶螺旋状着生，条状披针形，微弯，上面深绿色，有光泽，下面带白色、灰绿色或淡绿色。雄球花穗状、腋生，常3~5枚簇生千极短的总梗上；雌球花单生叶腋，有梗。种子先端圆，熟时肉质假种皮紫黑色，有白粉，种托肉质圆柱形，红色或紫红色。花期4~5月，种子8勺月成熟。
+	</string>
+    <string name="_17values">
+		常栽培作庭园观赏树。可作木材，种子、树皮、根皮可入药。
+	</string>
+    <string name="_17location">
+		校园零散分布，西区第三教学楼附近较多。分布千长江以南等地。
+	</string>
+    <string name="_17supplement">
+		因红色肉质种托似罗汉的装装，种子似罗汉的光脑袋，故名“罗汉松”。
+	</string>
+    <string name="_17nickname">
+		罗汉杉
+	</string>
+
+    <string name="_18name">
+		垂柳
+	</string>
+    <string name="_18species">
+		杨柳科	柳属
+	</string>
+    <string name="_18feature">
+		落叶乔木，树冠开展而疏散。枝细弱，下垂，淡褐黄色，无毛。叶狭披针形或线状披针形，上面绿色，下面色较淡，具细锯齿。花序先叶开放，或与叶同时开放；雄花序有短梗，雄蕊2枚；雌花序长2~3厘米，有梗。频果。花期3月，果期5月。
+	</string>
+    <string name="_18values">
+		因树形优美，故可作绿化树种。可作木材。枝条可编筐，树皮含鞣质，可提制拷胶，叶可作饲料。
+	</string>
+    <string name="_18location">
+		校园内常见。分布千长江流域与黄河流域。
+	</string>
+    <string name="_18supplement">
+		种子上附着白色絮状物，因此种子成熟后可随风飞散如絮，即“柳絮"。”碧玉妆成一树高，万条垂下绿丝绛",形容的就是春天的垂柳。此外，东区第一教学楼南侧有一株柳属的落叶大乔木——腺柳（俗名“河柳＂），叶卵状椭圆形，幼叶具圆形托叶，早落；叶柄顶端和叶缘齿端具腺体；雄蕊常6枚。花果期3~5月。
+	</string>
+    <string name="_18nickname">
+		水柳、仓丝柳
+	</string>
+
+    <string name="_19name">
+		加杨
+	</string>
+    <string name="_19species">
+		杨柳科	杨属
+	</string>
+    <string name="_19feature">
+		落叶大乔木。叶三角形或三角状卵形，先端渐尖，基部截形或宽樑形，无或有1~2枚腺体，有圆锯齿，近基部较疏，具短缘毛；叶柄侧扁而长。雄花序长7~15厘米，花序轴光滑，每花有雄蕊15~25(~40)枚；苞片淡绿褐色，不整齐，丝状深裂，花盘淡黄绿色，全缘；雌花序有花45~50朵，柱头4裂。果序长20~25厘米；朔果卵圆形，2~3瓣裂。花期4月，果期5~6月。
+	</string>
+    <string name="_19values">
+		可作行道树，但因春夏之交杨絮飞扬，建议少栽。可作木材。树皮含鞣质，可提制拷胶，也可作黄色染料。
+	</string>
+    <string name="_19location">
+		西区东北角、东区东门附近、南区有栽培。我国各地均有引种栽培。
+	</string>
+    <string name="_19supplement">
+		暂无。
+	</string>
+    <string name="_19nickname">
+		加拿大杨
+	</string>
+
+    <string name="_20name">
+		枫杨
+	</string>
+    <string name="_20species">
+		胡桃科	枫杨属
+	</string>
+    <string name="_20feature">
+		落叶乔木。叶常偶数羽状复叶，互生，叶轴具翅至翅不甚发达，小叶无柄，长椭圆形。花单性，雌雄同株；雄性栥荚花序腋生，雌性菜荚花序顶生。雌花几乎无梗。果序长20~30厘米；果翅狭，条形或阔条形。花期3月，果熟期8~9月。
+	</string>
+    <string name="_20values">
+		现广泛栽植作园庭树或行道树。果实可作饲料，也可酿酒，种子可梓油。树皮和枝皮含鞣质，可提取拷胶，亦可作纤维原料。
+	</string>
+    <string name="_20location">
+		东区和西区常见。分布于华中、华东和西南各地。
+	</string>
+    <string name="_20supplement">
+		因果实有两翼，形似苍蝇，故俗称“苍蝇树”。
+	</string>
+    <string name="_20nickname">
+		苍蝇树
+	</string>
+
+    <string name="_21name">
+		美国山核桃
+	</string>
+    <string name="_21species">
+		胡杨科	山核桃属
+	</string>
+    <string name="_21feature">
+		落叶乔木。树皮粗糙、纵裂。奇数羽状复叶。雄柔芙花序几无总梗；雌穗状花序具2~6枚雌花。果实矩圆形，外果皮沛，具4棱，裂成4瓣，内果皮骨质光滑。花期5月，果9~11月成熟。
+	</string>
+    <string name="_21values">
+		果仁含汕脂，可食。
+	</string>
+    <string name="_21location">
+		东区眼镜湖旁有栽培。原产北美洲。
+	</string>
+    <string name="_21supplement">
+		暂无。
+	</string>
+    <string name="_21nickname">
+		薄壳山核桃
+	</string>
+
+    <string name="_22name">
+		暂无
+	</string>
+    <string name="_22species">
+		暂无
+	</string>
+    <string name="_22feature">
+		落叶乔木。叶片长椭圆状披针形，先端渐尖，基部圆形或宽樑形，羽状脉直达叶缘凸出呈芒状锯齿，叶片两面同色。雄花序常数个集生千当年生枝下部叶腋；总苞碗形，直径1.5~2.2厘米；苞片钻形，反曲；坚果卵状球形；果跻隆起。花期3月下旬至4月，果实次年10月成熟。
+	</string>
+    <string name="_22values">
+		木材坚硬。叶可养殖祚蚕。果实含淀粉，可食用。
+	</string>
+    <string name="_22location">
+		郭沫若广场东南侧有栽培。分布千我国大部分地区。
+	</string>
+    <string name="_22supplement">
+		暂无。
+	</string>
+    <string name="_22nickname">
+		暂无
+	</string>
+
+    <string name="_23name">
+		榆树
+	</string>
+    <string name="_23species">
+		榆科	榆属
+	</string>
+    <string name="_23feature">
+		落叶乔木。树皮暗褐色，纵裂。叶椭圆状卵形至椭圆状披针形，先端渐尖，基部通常歪斜，边缘具锯齿。花先叶开放，花序成簇状着生。翅果近圆形。花期3月，果期4月中下旬。
+	</string>
+    <string name="_23values">
+		幼嫩翅果与面粉混拌可蒸食。木材优良。
+	</string>
+    <string name="_23location">
+		东区第一教学楼南侧、西区二里河岸边等地有栽培。分布千我国东北、华北、西北及西南各地。
+	</string>
+    <string name="_23supplement">
+		东区第一教学楼南侧、东区食堂旁边等地栽培有梆榆，落叶小乔木。树皮不规则鳞片状剥落。花期秋季。翅果的翅较狭而厚。木材坚硬。分布于我国部分地区。
+	</string>
+    <string name="_23nickname">
+		暂无
+	</string>
+
+    <string name="_24name">
+		朴树
+	</string>
+    <string name="_24species">
+		榆科	朴属
+	</string>
+    <string name="_24feature">
+		落叶乔木。树皮平滑，灰色；一年生枝被密毛。叶互生，叶柄长；叶片革质，宽卵形至狭卵形，基部偏斜，中部以上边缘有浅锯齿，三出脉，上面无毛，下面沿脉及脉腋疏被毛。花杂性（两性花和单性花同株），生于当年枝的叶腋。果柄较叶柄近等长；核果单生或2枚并生，近球形，熟时红褐色；果核有穴和突肋。花期4月，果期10月。
+	</string>
+    <string name="_24values">
+		栽培观赏。
+	</string>
+    <string name="_24location">
+		西区第三教学楼附近、东区老图书馆南侧均有栽培。分布于山东、河南以及长江以南等地。
+	</string>
+    <string name="_24supplement">
+		＂朴“读“po”。
+	</string>
+    <string name="_24nickname">
+		黄果朴、小叶朴
+	</string>
+
+    <string name="_25name">
+		桑
+	</string>
+    <string name="_25species">
+		桑科	桑属
+	</string>
+    <string name="_25feature">
+		落叶木本。单叶，互生，卵形，长5～15厘米，宽5-12厘米，边缘锯齿粗钝，有时叶为各种分裂；托叶早落。花单性；雄花序下垂；雌花序长1~2厘米。聚花果卵状椭圆形，长1~2.5厘米，成熟时红色或暗紫色。花期3~4月，果期5~8月。
+	</string>
+    <string name="_25values">
+		桑甚可生食、酿酒，根皮、果实及枝条入药。叶为养蚕的主要饲料。
+	</string>
+    <string name="_25location">
+		东区老图书馆附近和西区第三教学楼南部有栽培。原产千我国中部、北部地区。
+	</string>
+    <string name="_25supplement">
+		暂无。
+	</string>
+    <string name="_25nickname">
+		暂无
+	</string>
+
+    <string name="_26name">
+		无花果
+	</string>
+    <string name="_26species">
+		桑科	榕属
+	</string>
+    <string name="_26feature">
+		落叶灌木。叶互生，厚纸质，通常3~5裂，小裂片卵形，叶缘具不规则钝齿，表面粗糙基部浅心形。雌雄同株；熔果单生叶腋，梨形直径3~5厘米，顶部下陷，成熟时紫红色或黄色。花期5~7月，果期8~10月。
+	</string>
+    <string name="_26values">
+		因叶形优美，可供庭园观赏。格果味甜可食或作蜜钱，又可作药用。
+	</string>
+    <string name="_26location">
+		东区东门附近有栽培。原产于地中海沿岸。
+	</string>
+    <string name="_26supplement">
+		暂无。
+	</string>
+    <string name="_26nickname">
+		暂无
+	</string>
+
+    <string name="_27name">
+		构树
+	</string>
+    <string name="_27species">
+		桑科	构属
+	</string>
+    <string name="_27feature">
+		乔木，具乳汁。叶互生，广卵形，基部心形，叶缘具粗锯齿，两面被毛；托叶大。花雌雄异株；雄花序为柔英花序，雄蕊4枚；雌花序球形头状。聚花果成熟时橙红色，肉质多汁。花期4~5月，果期6~7月。
+	</string>
+    <string name="_27values">
+		韧皮纤维可作造纸原料，栳实子（果实）及根、皮可供药用。
+	</string>
+    <string name="_27location">
+		东区第二教学楼附近及西区二里河附近等地有少址野生。分布千我国南北各地。
+	</string>
+    <string name="_27supplement">
+		暂无。
+	</string>
+    <string name="_27nickname">
+		暂无
+	</string>
+
+    <string name="_28name">
+		十大功劳
+	</string>
+    <string name="_28species">
+		小檗科	十大功劳属
+	</string>
+    <string name="_28feature">
+		常绿灌木。羽状复叶倒卵形至倒卵状披针形，具2~5对小叶；小叶狭披针形至狭椭圆形，长4.5-14厘米，宽1厘米，基部樑形，叶缘每边具5~10枚刺齿，先端渐尖。总状花序4~10枚簇生；花黄色；萼片3轮，9枚；花瓣2轮，6枚；雄蕊6枚。浆果球形，紫黑色，被白粉。花期10月，果期10-11月。
+	</string>
+    <string name="_28values">
+		可作庭院观赏。全株可供药用，有清热解毒、滋阴强壮之功效。
+	</string>
+    <string name="_28location">
+		校园常见栽培。华东、华南等地有野生。
+	</string>
+    <string name="_28supplement">
+		东区眼镜湖、东区家属区栽培有阔叶十大功劳，奇数羽状复叶，互生，小叶4~10对；卵形，厚革质，叶缘上部具3~5枚尖齿。总状花序直立，通常3~9枚簇生；花黄色；花瓣倒卵状椭圆形，先端微缺。浆果卵形，深蓝色，被白粉。花期2~3月，果期3~5月。因四季常绿，叶形奇特，故可供观赏。分布于秦岭至长江流域等地。
+	</string>
+    <string name="_28nickname">
+		刺黄柏、黄天竹
+	</string>
+
+    <string name="_29name">
+		南天竹
+	</string>
+    <string name="_29species">
+		小檗科	南天竹属
+	</string>
+    <string name="_29feature">
+		常绿小灌木。茎光滑，幼枝常为红色。叶互生，集生千茎的上部至一回羽状复叶，二至二回羽片对生；小叶溥革质，冬季变红色，近尤柄。圆钟花序杠立；花小，白色，具芳香；花瓣6枚，长圆形；雄蕊6枚。浆呆球形，熟时鲜红色。花期5~6月，果期8~l2月。
+	</string>
+    <string name="_29values">
+		因四季常绿，叶色美丽，为优良的庭院观赏植物。
+	</string>
+    <string name="_29location">
+		校园常见栽培植物。分布于中国和日本。根、叶具有强筋活络等功效，果为镇咳药，但有毒。
+	</string>
+    <string name="_29supplement">
+		暂无。
+	</string>
+    <string name="_29nickname">
+		观音竹、南天烛
+	</string>
+
+    <string name="_30name">
+		日本小檗
+	</string>
+    <string name="_30species">
+		小檗科	小檗属
+	</string>
+    <string name="_30feature">
+		落叶灌木。茎刺单一。叶薄纸质，倒卵形、匙形或菱状卵形，全缘，紫红色。花2~5朵组成具总梗的伞形花序，或近簇生的伞形花序或无总梗而呈簇生状。小苞片卵状披针形，带红色；花黄色，花瓣长圆状倒卵形。浆果亮鲜红色。花期3~4月，果期7~10月。
+	</string>
+    <string name="_30values">
+		叶色独特，常用作庭园观赏及绿化。根和茎含小檗碱，可提取作黄连素原料，根皮可作健胃剂。茎皮可作黄色染料。
+	</string>
+    <string name="_30location">
+		西区研究生公寓附近有栽培。分布千我国东北、华北及秦岭。日本也有分布。
+	</string>
+    <string name="_30supplement">
+		校内栽培的为日本小檗的栽培变种“紫叶小檗＂。檗读“bo”。
+	</string>
+    <string name="_30nickname">
+		暂无
+	</string>
+
+    <string name="_31name">
+		紫玉兰
+	</string>
+    <string name="_31species">
+		木兰科	木兰属
+	</string>
+    <string name="_31feature">
+		落叶灌木。单叶，互生，托叶早落，留下环状托叶痕。花先叶开放，稍有香气；花被片9~12枚，外轮3枚萼片状，紫绿色，常早落，内两轮肉质，外面紫色或紫红色，内面带白色，花瓣状，椭圆状倒卵形。聚合果深紫褐色，成熟符葵顶端具短喙。花期3~4月，果期8~9月。
+	</string>
+    <string name="_31values">
+		花色艳丽，可供栽培观赏。树皮、叶、花沓均可入药。
+	</string>
+    <string name="_31location">
+		校园常见。分布千福建、湖北和四川等地。
+	</string>
+    <string name="_31supplement">
+		暂无。
+	</string>
+    <string name="_31nickname">
+		辛夷
+	</string>
+
+    <string name="_32name">
+		玉兰
+	</string>
+    <string name="_32species">
+		木兰科	木兰属
+	</string>
+    <string name="_32feature">
+		落叶乔木。叶纸质，倒卵形、宽倒卵形或倒卵状椭圆形，先端具短突尖，中部以下渐狭成模形，叶上面深绿色，下面浅绿色。花叶开放，直立，芳香；花被片9枚，白色，基部带粉红色，近相似，长圆状倒卵形；雌蕊狭卵形。聚合果圆柱形，抖葵厚木质。花期2~3月（亦常千7~9月再开一次花），果期8~9月。
+	</string>
+    <string name="_32values">
+		暂无。
+	</string>
+    <string name="_32location">
+		校园常见早春开花植物。全国各大城市广泛栽培。
+	</string>
+    <string name="_32supplement">
+		中区理化科学实验中心旁边栽培有飞黄玉兰，花被片为鲜艳的黄白色。花期3月下旬至4月，果先期9月。因花大而美丽，可供观赏。我国大部常分地区有栽培。飞黄玉兰是玉兰的芽变品种。
+	</string>
+    <string name="_32nickname">
+		木兰、白玉兰
+	</string>
+
+    <string name="_33name">
+		二乔木兰
+	</string>
+    <string name="_33species">
+		木兰科	木兰属
+	</string>
+    <string name="_33feature">
+		落叶小乔木。叶倒卵形，先端短急尖，从邹桵形。花先叶开放，花被片6~9枚，外轮3枚常较短或与内轮近等长，外而紫红色或红色，电而色较浅。聚合果仵徙卵形或倒卵形，熟时黑色。花期3~4月，果熟期9月。
+	</string>
+    <string name="_33values">
+		因化大而美丽，可供观赏。
+	</string>
+    <string name="_33location">
+		西区栽培较多，东区第二教学楼附近也有栽培。令国各地均有栽培。
+	</string>
+    <string name="_33supplement">
+		暂无。
+	</string>
+    <string name="_33nickname">
+		二乔玉兰
+	</string>
+
+    <string name="_34name">
+		荷花玉兰
+	</string>
+    <string name="_34species">
+		木兰科	木兰属
+	</string>
+    <string name="_34feature">
+		常绿乔木。小枝、芽、叶下面及叶柄均密被褐色或灰褐色短绒毛。叶互生，厚革质，常椭圆形，叶而深绿色，有光泽。花大，白色，直径15-20厘米；花被片9~12枚。花丝扁-平，紫色。聚合果圆柱状长圆形；骨葵背裂，顶端外侧具长喙；种子外种皮红色。花期5~6月，果期9~l0月。
+	</string>
+    <string name="_34values">
+		花大而美丽，为优良的庭园绿化观赏树种。叶、幼枝和花可提取芳香油，叶可入药。可作木材。
+	</string>
+    <string name="_34location">
+		校园常见行道树。原产千北美洲南部。我国长江流域以南各城市有栽培。
+	</string>
+    <string name="_34supplement">
+		1984年，荷花玉兰（广玉兰）被定为合肥市市树。
+	</string>
+    <string name="_34nickname">
+		羊玉兰、广玉兰
+	</string>
+
+    <string name="_35name">
+		暂无
+	</string>
+    <string name="_35species">
+		木兰科	鹅掌揪属
+	</string>
+    <string name="_35feature">
+		乔木。高达40米，胸径1米以上，小枝灰色或灰褐色。叶互生，马褂状，近基部每边具1枚裂片，先端具2浅裂，下面苍白色。花杯状，花被片9枚，外轮	3枚绿色，内两轮6片，直立，花瓣状、倒卵形，绿色，具黄色纵条纹，心皮黄绿色。花期4月，果期9~10月。
+	</string>
+    <string name="_35values">
+		树形高大，叶形奇特，可作观叶植物、行道树。叶和树皮入药。可作木材。
+	</string>
+    <string name="_35location">
+		东区石榴园、学生宿舍区和南区有栽培。分布千秦岭以南地区。
+	</string>
+    <string name="_35supplement">
+		由千叶呈马褂状，形状奇特，故俗名马褂木。世界最珍贵的濒危树种之一。
+	</string>
+    <string name="_35nickname">
+		马褂木
+	</string>
+
+    <string name="_36name">
+		含笑花
+	</string>
+    <string name="_36species">
+		木兰科	含笑屈
+	</string>
+    <string name="_36feature">
+		常绿灌木 。 芽、嫩枝、叶柄、花梗均密被黄褐色绒毛。单叶， 互生 ，革质，椭圆形。单花生千叶腋，花直立，具甜浓的芳香，花被片6枚，肉质，较肥厚，长椭圆形。聚合果，骨英圆形或球形，顶端有短尖的喙。 花期3 ~5月，果期7~8月。
+	</string>
+    <string name="_36values">
+		因四季常绿 ，花美而芳香，常作观赏植物。花瓣可拌入茶叶制成花茶 、提取芳香油等。
+	</string>
+    <string name="_36location">
+		西区常见栽培。原产千华南南部各地。
+	</string>
+    <string name="_36supplement">
+		本种花开放时，含齿不尽开，故称“含笑花”。
+	</string>
+    <string name="_36nickname">
+		暂无
+	</string>
+
+    <string name="_37name">
+		乐昌含笑
+	</string>
+    <string name="_37species">
+		木兰科	含笑属
+	</string>
+    <string name="_37feature">
+		常绿乔木。叶互生，泄革质，倒卵形或长圆状倒卵形，先端骤狭短渐尖；叶柄无托叶痕。花梗被平伏灰色微柔毛，具2~5苞片脱落痕，花被片6枚，2轮，外轮倒卵状椭圆形，内轮较狭，淡黄色，芳香。聚合果长约10厘米；种子红色。花期3月下旬至4月，果期8~9月。
+	</string>
+    <string name="_37values">
+		因树干挺拔，花香醉人，可供绿化观赏。
+	</string>
+    <string name="_37location">
+		南区体育馆西侧有栽培。分布千我国华东、华南地区。
+	</string>
+    <string name="_37supplement">
+		该种是1929年由英国桢物学家J.EDami)在乐昌市发现的，并因此而得名。东区西门北侧栽培有深山含笑，全株各部分光滑无毛；芽、幼枝、叶下面均被自粉。叶互生，革质，长椭圆形，叶柄无托叶痕。花单生枝梢叶腋；花被片9枚，排列成3轮，白色，芳香。聚合果，忏类果先端打短尖头；种子红色。花期2~3月，果期9~11月。树形端直，叶色浓郁，花自如玉，为优良观赏树种。可作木材。分布于我国华东、华南地区。
+	</string>
+    <string name="_37nickname">
+		暂无
+	</string>
+
+    <string name="_38name">
+		腊梅
+	</string>
+    <string name="_38species">
+		蜡梅科	蜡梅属
+	</string>
+    <string name="_38feature">
+		落叶灌木。叶对生，近革质，卵状披针形，长7~l5厘米，先端渐尖。花芳香，外部花被片卵状椭圆形，黄色，内部的较短，有紫色条纹；雄蕊5~6枚。果托随果实的发育而增大，成熟时椭圆形，呈炳果状，半木质化，11部收缩。花期12月至翌年2月。
+	</string>
+    <string name="_38values">
+		暂无。
+	</string>
+    <string name="_38location">
+		校园常见栽培植物。我国特产。
+	</string>
+    <string name="_38supplement">
+		有诗赞曰：“试问清香谁第一，姑梅花冠百花香。”
+	</string>
+    <string name="_38nickname">
+		黄蜡梅、雪里花
+	</string>
+
+    <string name="_39name">
+		樟
+	</string>
+    <string name="_39species">
+		樟科	樟属
+	</string>
+    <string name="_39feature">
+		常绿大乔木。树冠广卵形；树皮黄褐色，有不规则纵裂。叶互生，卵状椭圆形，具离基三出脉。侧脉及支脉脉腋上而明显隆起，下面有明显腺窝。圆锥花序腋生，具梗，花绿臼或带黄色；雄蕊4轮，能育雄蕊9枚，排列成3轮；退化雄蕊3枚，位千鼓内轮。果实紫黑色，果托杯状。花期4~5月，果期8~11月。
+	</string>
+    <string name="_39values">
+		因四季常绿，常作绿化棺物。根、枝、叶可提取樟脑和樟汕，也可入药。可作木材。
+	</string>
+    <string name="_39location">
+		校园常见行道树。分布千华南及西南各地。
+	</string>
+    <string name="_39supplement">
+		暂无。
+	</string>
+    <string name="_39nickname">
+		香樟、油樟、樟木
+	</string>
+
+    <string name="_40name">
+		枫香树
+	</string>
+    <string name="_40species">
+		金缕梅科枫香树属
+	</string>
+    <string name="_40feature">
+		落叶乔木。叶蒲革质，阔卵形，华状3裂，中央裂片较长，先端尾状渐尖，基部心形，托叶线形，早落。雄性短穗状花序常多个排成总状。雌性头状花序有花24~43朵，萼齿4~7枚，针形，花柱先端常卷曲。头状果序圆球形，木质，有宿存花柱及针刺状萼齿。花期3~4月，果期9~10月。
+	</string>
+    <string name="_40values">
+		秋季叶片变黄，极具观赏价值，为绿化观赏树种。可作木材。树脂、根、叶及果实可入药。
+	</string>
+    <string name="_40location">
+		东区有栽培。分布千我国秦岭及淮河以南各地。
+	</string>
+    <string name="_40supplement">
+		东区北门新栽植有枫香屈的北美枫香，叶庄生，具长柄，叶片萃状5裂，基出脉5条，叶缘具尖锐且不等大小的锯齿，齿端具腺体。球状果序上宿存的柱头肉质粗壮。秋季叶变黄色或红色，为观叶的绿化植物。原产千北美洲。
+	</string>
+    <string name="_40nickname">
+		暂无
+	</string>
+
+    <string name="_41name">
+		蚊母树
+	</string>
+    <string name="_41species">
+		金缕梅科蚊母树属
+	</string>
+    <string name="_41feature">
+		常绿乔木。叶革质，椭圆形，具光泽。托叶细小，早落。总状花序无毛。花雌雄同序雌花位千花序的顶端；雄蕊5~6枚，花药红色。朔果卵圆形，上半部两瓣裂，每瓣2浅裂。花期3~4月，果期8~10月。
+	</string>
+    <string name="_41values">
+		栽培观赏。
+	</string>
+    <string name="_41location">
+		西区东门附近和也西湖附近有栽培。分布于华东和华南各地。
+	</string>
+    <string name="_41supplement">
+		因蚊母树叶片易受某类昆虫寄生产卵而形成“虫瘦＂（植物受虫害或真菌的侵害而形成的瘤状物），羽化后的幼虫飞人天空，因而得名＂蚊母树”。
+	</string>
+    <string name="_41nickname">
+		暂无
+	</string>
+
+    <string name="_42name">
+		红花檵木
+	</string>
+    <string name="_42species">
+		暂无
+	</string>
+    <string name="_42feature">
+		湴木。多分枝，小枝有星毛。叶革质，卵形，下面被星毛，全缘；叶柄长2~5毫米，	有星毛；托叶膜质早落。花3~8朵簇生，有短花梗，红色，比新叶先开放，或与嫩叶同时开放。萼筒杯状，被星状绒毛，花后脱落；花瓣4枚，带状，长1~2厘米；雄蕊4枚；退化雄蕊4枚，与雄蕊互生；子房下位，被星毛。妨果卵圆形，被褐色星状绒毛。花期3~4月。
+	</string>
+    <string name="_42values">
+		可供栽培观赏。叶用千止血，根及叶用千跌打损伤。
+	</string>
+    <string name="_42location">
+		校园常见栽培。分布千湖南长沙岳麓山。现各地栽培。
+	</string>
+    <string name="_42supplement">
+		檵读”ji”。
+	</string>
+    <string name="_42nickname">
+		暂无
+	</string>
+
+    <string name="_43name">
+		杜仲
+	</string>
+    <string name="_43species">
+		杜仲科	杜仲属
+	</string>
+    <string name="_43feature">
+		落叶乔木。单叶，互生具羽状脉，边缘有锯齿，具柄，无托叶。雌雄异株，无花被，先叶开放，或与新叶同时从鳞芽长出；雄花簇生，有短柄，具小苞片；雄蕊5~10枚；雌花单生千小枝下部，有苞片，具短花梗。果不开裂，扁平，长椭圆形的翅果先端2裂，果皮菏革质，果梗极短；种子1粒。早春开花，秋后果实成熟。
+	</string>
+    <string name="_43values">
+		园林绿化树木。可作木材。树皮药用，树皮分泌的硬橡胶可作工业原料。
+	</string>
+    <string name="_43location">
+		东区篮球场旁、西区二里河北部草坪有栽培。分布千华中、华西、西南及西北各地，现广泛栽培。杜仲科仅1属1种，我国特有。
+	</string>
+    <string name="_43supplement">
+		叶片撕开后有胶状白丝相连。
+	</string>
+    <string name="_43nickname">
+		扯丝皮、棉树
+	</string>
+
+    <string name="_44name">
+		二球悬铃木
+	</string>
+    <string name="_44species">
+		悬铃木科、悬铃木属
+	</string>
+    <string name="_44feature">
+		落叶大乔木，树皮光滑，大片块状脱落。叶阔卵形，上部掌状5裂，有时7裂或3裂；叶柄基部鞘状套在芽外。果枝有头状果序1~2枚，稀3枚，常下垂。花期4~5月，果期9~11月。
+	</string>
+    <string name="_44values">
+		栽培观赏，作行道树。
+	</string>
+    <string name="_44location">
+		东区常见。各地广泛栽培。
+	</string>
+    <string name="_44supplement">
+		本种是三球悬铃木与一球悬铃木的杂交种。虽然俗名为＂梧桐＂，并不是梧桐科＂梧桐"的近亲。头状果序似悬挂的铃钙，故名“悬铃木＂。此外，西区操场东侧、东区第一教学楼北面少阰栽培有一球悬铃木PlatanusoccidentalisL.，具也称为“美国梧桐＂，树皮碎裂而不脱落。叶大，通常3浅裂。头状果序圆球形，单生。花期牛5月，果期9~12月。可栽培观赏，作行道树。原产于北美洲，现被广泛引种。
+	</string>
+    <string name="_44nickname">
+		暂无
+	</string>
+
+    <string name="_45name">
+		牡丹
+	</string>
+    <string name="_45species">
+		芍药科	芍药属
+	</string>
+    <string name="_45feature">
+		暂无。
+	</string>
+    <string name="_45values">
+		栽培历史悠久，极具观赏价值。根皮称丹皮，可入药。
+	</string>
+    <string name="_45location">
+		东区和南区家屈区常有栽培，南区有两株牡丹高达2米。长江流域以北地区常见栽培。
+	</string>
+    <string name="_45supplement">
+		牡丹为花中之王，在我国十大名花中位居第二，素有“国色天香”之眢。刘禹锡诗曰：“唯有牡丹真国色，花开时节动京城。”但牡丹也作常娇贵，据《群芳谱》介绍，它最忌麝香、桐油和生漆，一着其味，即时萎落。另外，暑天忌浇泄，花期禁秽人触摸。
+	</string>
+    <string name="_45nickname">
+		暂无
+	</string>
+
+    <string name="_46name">
+		野蔷薇
+	</string>
+    <string name="_46species">
+		蔷薇科	蔷薇属
+	</string>
+    <string name="_46feature">
+		攀援灌木。小枝有皮刺。小叶5~9枚，近花序的小叶有时3枚，边缘有尖锐单锯齿稀混有重锯齿；托叶笢齿状，大部贴生千叶柄。花多朵，排成圆锥状花序，有时基部有笢齿状小苞片；花瓣白色，宽倒卵形，先端微凹，基部樑形；花柱结合成束，无毛，比雄蕊稍长。果近球形，红褐色或紫褐色，有光泽，无毛，吓片脱落。花期4月，果期8~10月。
+	</string>
+    <string name="_46values">
+		因花多而美丽，可供观赏。
+	</string>
+    <string name="_46location">
+		校园常见栽培。分布千华北、华东、华中、西南等地。各地广泛栽培。
+	</string>
+    <string name="_46supplement">
+		校内常见栽培变种为七姊妹R,为重瓣变种，粉红色。
+	</string>
+    <string name="_46nickname">
+		暂无
+	</string>
+
+    <string name="_47name">
+		月季花
+	</string>
+    <string name="_47species">
+		蔷薇科	蔷薇属
+	</string>
+    <string name="_47feature">
+		直立灌木。小叶3~5枚，稀7枚，基近圆形或宽樑形，边缘有锐锯齿，上面暗绿色，常带光泽，托叶大部贴生千叶柄，仅顶端分离部分成耳状，边缘常有腺毛。花几朵集生，直径4~5厘米；萼片先端尾状渐尖，有时呈叶状，边缘常有羽状裂片，稀全缘，外面无毛，内面密被长柔毛；花瓣重瓣至半重瓣，红色、粉红色至白色，倒卵形，先端有凹缺，基部樱形。果	红色，萼片脱落。花期4~9月，果期6~11月。
+	</string>
+    <string name="_47values">
+		因花大而美丽，可供观赏。花、根、叶均入药。
+	</string>
+    <string name="_47location">
+		校园常见。全国各地均有栽培。
+	</string>
+    <string name="_47supplement">
+		月季原产中国，有极多的栽培品种。为我国十大名花之一。”只道	花无十日红，此花无日不春风。”宋代诗入杨万里的《腊前月季》正写出了月季花期长，几近全年可见花开的特点。
+	</string>
+    <string name="_47nickname">
+		暂无
+	</string>
+
+    <string name="_48name">
+		大岛樱
+	</string>
+    <string name="_48species">
+		蔷薇科	樱属
+	</string>
+    <string name="_48feature">
+		落叶乔木。叶互生，常卵形，先端渐尖，叶缘具重锯齿，叶柄先端有腺体；托叶裂呈线形边缘有小腺齿。花叶同期；花序伞房状；总花序梗明显，基部有大型的绿色盾状苞片，花梗长，无毛；萼筒长钟形，无毛，萼片披针形，花时不反折，边缘有锯齿；花白色，单瓣，先端内凹。核果黑色，球形。花期3月下旬～4月初，果期5~6月。
+	</string>
+    <string name="_48values">
+		栽培观赏。
+	</string>
+    <string name="_48location">
+		东区老北门东北侧有栽培。原产日本伊豆半岛。我国华东、华北等地有栽培。
+	</string>
+    <string name="_48supplement">
+		暂无。
+	</string>
+    <string name="_48nickname">
+		暂无
+	</string>
+
+    <string name="_49name">
+		日本晚樱
+	</string>
+    <string name="_49species">
+		蔷薇科	樱属
+	</string>
+    <string name="_49feature">
+		落叶乔木，皮孔明显。叶互生，卵状椭圆形，先端渐尖，叶缘有渐尖单锯齿及重锯齿，叶柄先端有腺体；托叶线形，早落。先花后叶，花序伞房总状或近伞形，有花2~3朵；总梗长5~10毫米，小花梗长1.5~2.5厘米，花重瓣，粉红色。花期3~4月。
+	</string>
+    <string name="_49values">
+		因花大而美丽，可供观赏，可作行道树。
+	</string>
+    <string name="_49location">
+		校园常见，东区第一教学楼到北门间路两旁、西区第三教学楼附近，有大址栽培。原产千日本。我国各地庭园栽培。东区有一·株品种名为“御衣黄＂，花瓣为黄绿色。
+	</string>
+    <string name="_49supplement">
+		暂无。
+	</string>
+    <string name="_49nickname">
+		暂无
+	</string>
+
+    <string name="_50name">
+		李
+	</string>
+    <string name="_50species">
+		蔷薇科	李属
+	</string>
+    <string name="_50feature">
+		落叶乔木。单叶，互生；幼叶席卷，叶片长圆形、长椭圆形，先端渐尖或短尾尖，基部樑形，叶缘有圆钝直锯齿，常混有单锯齿，两而均无毛，托叶膜质，线形，边缘有腺，早落。花通常3朵并生；花梗1~2厘米，通常无毛；花直径1.5-2.2厘米；砃筒钟状；花瓣白色，长圆倒卵形，先端咽蚀状，具短爪，雌蕊1枚，柱头盘状，花柱比雄蕊稍长。核果球形，有时为绿色或紫色，梗凹陷入，外被蜡粉。花期3月，果期7~8月。
+	</string>
+    <string name="_50values">
+		可供观赏。果实可食用，为重要温带果树之一，校内栽培植株少见结果。
+	</string>
+    <string name="_50location">
+		校园常见，西区芳华园栽培较多。我国各地及世界各地均有栽培。
+	</string>
+    <string name="_50supplement">
+		暂无。
+	</string>
+    <string name="_50nickname">
+		山李子、李子
+	</string>
+
+    <string name="_51name">
+		桃
+	</string>
+    <string name="_51species">
+		蔷薇科	桃属
+	</string>
+    <string name="_51feature">
+		乔木。树皮暗红褐色。小枝向阳处转变成红色。单叶，互生，幼叶对折；叶片披针形，叶缘具锯齿。花单生，先千叶开放，花梗极短或儿无梗；萼筒钟形，被短柔毛，绿色而具红色斑点；萼片顶端圆钝，外被短柔毛；花瓣长圆状椭圆形至宽倒卵形，粉红色，罕为白色；雄蕊20~30枚，子房被短柔毛。果实形状和大小均有变异。花期3~4月，果实成熟期因品种而异，通常为8~9月。
+	</string>
+    <string name="_51values">
+		栽培观赏。桃树干上分泌的胶质（桃胶）可食用，也供药用。
+	</string>
+    <string name="_51location">
+		东区家属区、东区第二教学楼、西区北门有零散栽培。原产千我国，各地广泛栽培。
+	</string>
+    <string name="_51supplement">
+		桃的观赏品种很多。校内栽培植株少见结果。”人间四月芳菲尽，山寺桃花始盛开。”这句诗描写了山下城锁的桃花已落，而山中寺院的桃花才刚刚盛开的自然景象，生动地描写了海拔高度对物候的影响。校园常见栽培有绛桃，花重瓣，深红色或白色。
+	</string>
+    <string name="_51nickname">
+		暂无
+	</string>
+
+    <string name="_52name">
+		紫叶李
+	</string>
+    <string name="_52species">
+		蔷薇科	李属
+	</string>
+    <string name="_52feature">
+		落叶灌木；叶互生，紫红色，叶片卵形，边缘有圆钝锯齿，紫红色；托叶膜质。花单生，萼筒钟状；花瓣白色，长圆形，边缘波状，基部樑形着生在萼筒边缘；雌蕊1枚，心皮被长柔毛。核果近球形或椭圆形，直径2~3厘米，微被蜡粉。花期3月，果期6月。
+	</string>
+    <string name="_52values">
+		可供观赏。果实可生食。校内栽培的极少见结果。
+	</string>
+    <string name="_52location">
+		校园常见。常年叶片紫色，引人注目。各地均有栽培。
+	</string>
+    <string name="_52supplement">
+		暂无。
+	</string>
+    <string name="_52nickname">
+		暂无
+	</string>
+
+    <string name="_53name">
+		杏
+	</string>
+    <string name="_53species">
+		蔷薇科	杏属
+	</string>
+    <string name="_53feature">
+		乔木。一年生枝浅红褐色，有光泽。叶片宽卵形，先端尖，基部圆形至近心形，叶缘有圆钝锯齿，叶柄基部具1~6枚腺体。花单生，先千叶开放；花梗短，长1~3毫米；萼片花后反折；花瓣白色或带红色，具短爪；雄蕊20~45枚；子房、花柱下部具柔毛。果实球形，微被短柔毛；果肉多汁，成熟时不开裂；种仁味苦或甜。花期3月，果期6~7月。
+	</string>
+    <string name="_53values">
+		栽培观赏。种仁（杏仁）入药。
+	</string>
+    <string name="_53location">
+		西区芳华园、生命科学学院旁、东区第一教学楼旁等地有栽培。分布千全国各地。
+	</string>
+    <string name="_53supplement">
+		杏与梅的区别：梅小枝绿色，叶基部樑形或宽樑形，花多为重痴。
+	</string>
+    <string name="_53nickname">
+		杏花
+	</string>
+
+    <string name="_54name">
+		梅
+	</string>
+    <string name="_54species">
+		蔷薇科	杏属
+	</string>
+    <string name="_54feature">
+		落叶泄木。小枝绿色，光滑无毛。叶片卵形，先端尾尖，基部宽樑形空圆形，叶缘常具小锐锯齿，叶柄幼时具毛，老时脱落，常有腺体。花单生或有时2朵同生千1枚花芽内，香味浓，先叶开放；花梗短，长1~3厘米；花哼	通常红褐色，但有些品种的花呼为绿色或绿紫色；骂片卵形或近圆形，先端圆钝；花瓣倒卵形，自色至粉红色；了房密被柔毛。果实近球形，被柔毛，核腹面和背棱上均打明显纵沟，表面具蜂窝状孔穴。花期冬春季，果期5~6月。
+	</string>
+    <string name="_54values">
+		栽培观赏。果实可食，可入药。
+	</string>
+    <string name="_54location">
+		校园常见，西区芳华园栽培较多。我国各地均有栽培。
+	</string>
+    <string name="_54supplement">
+		梅花为我国1从大名花之首，花中之魁。正如《世等贤文》所说：“宝剑锋从磨砺出，梅花香自苦寒来。”
+	</string>
+    <string name="_54nickname">
+		暂无
+	</string>
+
+    <string name="_55name">
+		枇杷
+	</string>
+    <string name="_55species">
+		蔷薇科	枇杷属
+	</string>
+    <string name="_55feature">
+		常绿小乔木。叶互生，革质，常倒披针形，长12-30厘米，上部叶缘有疏锯齿，基部全缘，上面光亮，多皱，下面密生灰棕色绒毛；圆锥花序顶生；花瓣白色。果实长圆形，黄色，外有锈色柔毛。花期11~12月，果期翌年5~6月。
+	</string>
+    <string name="_55values">
+		为亚热带常见水果。可供园林观赏。叶可供药用，化痰止咳。可作木材。中和西南等地。
+	</string>
+    <string name="_55location">
+		校园常见观赏树木，东区郭沫若广场西侧、西区本科生宿舍附近较多。
+	</string>
+    <string name="_55supplement">
+		枇杷熟时黄色，诗文有“东园载酒西园醉，摘尽枇杷一树金”。
+	</string>
+    <string name="_55nickname">
+		暂无
+	</string>
+
+    <string name="_56name">
+		木瓜
+	</string>
+    <string name="_56species">
+		蔷薇科	木瓜属
+	</string>
+    <string name="_56feature">
+		灌木。树皮成片状脱落；枝无刺。叶片椭圆形，叶缘有刺芒状尖锐锯齿，齿尖有腺。幼时下面密被黄白色绒毛；叶柄有腺齿；托叶膜质，边缘具腺齿。花单生千叶腋，花梗短粗；萼筒钟状，外面无毛；萼片三角披针形，边缘有腺齿，反折；花瓣倒卵形，淡粉红色；雄蕊多数，花柱3~5枚，基部合生。果实长椭圆形，暗黄色，木质。花期3~4 月，果期9~10 月。
+	</string>
+    <string name="_56values">
+		 栽培供观赏。果实供食用 、入药 。可作木材。
+	</string>
+    <string name="_56location">
+		东区第一教学楼南面、眼镜湖西面有集中栽培。分布千秦岭至长江流域以南等地。
+	</string>
+    <string name="_56supplement">
+		果皮干燥后仍光滑，不皱缩，故有光皮木瓜之称。俗名为“木瓜”的水果，是番木瓜科植物番木瓜的果实，而并不是本种的果实。
+	</string>
+    <string name="_56nickname">
+		海棠，光皮木瓜
+	</string>
+
+    <string name="_57name">
+		皱皮木瓜
+	</string>
+    <string name="_57species">
+		蔷薇科	木瓜属
+	</string>
+    <string name="_57feature">
+		落叶灌木。枝条有刺。叶片卵形至椭圆形，叶缘具有尖锐锯齿，托叶大。花先叶开放，3～5朵簇生千二年生老枝上；花梗短粗，长约3毫米或近于无梗，花瓣倒卵形或近圆形，猩红色，稀淡红色或白色。果实球形或卵球形，黄色或带黄绿色，果皮发皱。花期3~5月，果期9~l0月。
+	</string>
+    <string name="_57values">
+		可作绿篱、观花植物。果实可入药。
+	</string>
+    <string name="_57location">
+		校园常见早春观花植物。原产于我国西南部，现广泛栽培。
+	</string>
+    <string name="_57supplement">
+		因果皮发皱，故名“皱皮木瓜”，和木瓜（光皮木瓜）相对。又因花梗短粗或近千无梗，花似海棠，又名“贴梗海棠＂。
+	</string>
+    <string name="_57nickname">
+		贴梗海棠、贴梗木瓜
+	</string>
+
+    <string name="_58name">
+		杜梨
+	</string>
+    <string name="_58species">
+		蔷薇科	梨属
+	</string>
+    <string name="_58feature">
+		乔木。枝常具刺。叶片卵形，先端渐尖基部宽樑形，叶缘有粗锐锯齿，幼叶上下两面均密被灰白色绒毛，老叶无毛有光泽；叶柄被灰白色绒毛；托叶早落。伞形总状花序，有花10~15朵，总花梗和花梗均被灰白色绒毛；苞片早落；花直径1.5-2厘米；萼筒外密被灰白色绒毛；萼片三角卵形，全缘，内外两面均密被绒毛，花瓣先端圆钝，基部具有短爪，白色；雄蕊20枚，花药紫色，花柱2~3枚。果实近球形。花期4月，果期8~9月。
+	</string>
+    <string name="_58values">
+		暂无。
+	</string>
+    <string name="_58location">
+		西区图书馆东南侧有栽培。分布于辽宁、河北以及华东等地。
+	</string>
+    <string name="_58supplement">
+		暂无。
+	</string>
+    <string name="_58nickname">
+		宋梨、土梨
+	</string>
+
+    <string name="_59name">
+		垂丝海棠
+	</string>
+    <string name="_59species">
+		暂无
+	</string>
+    <string name="_59feature">
+		落叶乔木。单叶互生，叶片卵形至椭卵形，叶缘有圆钝细锯齿。伞房花序，具花4~6朵，花梗细弱，下垂，有稀疏柔毛，紫色；花直径3~3.5厘米，萼筒外面无毛；萼片全缘，外面无毛，内面密被绒毛；花瓣粉红色，常在5数以上；花柱4或5枚。果实直径6~8毫米，萼片脱落。花期3~4月，果期9~10月。
+	</string>
+    <string name="_59values">
+		栽培观赏。
+	</string>
+    <string name="_59location">
+		校园常见。分布千华东和西南等地。
+	</string>
+    <string name="_59supplement">
+		校内有重瓣变种。花粉红色，下垂，故名＂垂丝海棠＂。东区北门栽培有海棠花，花萼内面被白色绒毛，呼片比萼筒稍短，花白色或粉红色。果实具宿存萼片，果基部不下陷。花期4~5月。分布千华北和华东地区。
+	</string>
+    <string name="_59nickname">
+		海棠
+	</string>
+
+    <string name="_60name">
+		湖北海棠
+	</string>
+    <string name="_60species">
+		蔷薇科	苹果属
+	</string>
+    <string name="_60feature">
+		落叶乔木。叶片卵形至卵状椭圆形，边缘有细锐锯齿。伞房花序，具花4~6朵；萼裂片三角状卵形，反卷；花瓣倒卵形，长约1.5厘米，基部有短爪，粉白色或近白色；雄蕊20枚，约等千花瓣之半；花柱常3枚。果实椭圆形或近球形，直径约1厘米，黄绿色稍带红晕，呼片脱落；果梗长2~4厘米。花期3月下旬至4月上旬，果期8~9月。
+	</string>
+    <string name="_60values">
+		春季满树缀以白色花朵，秋季果实累累，甚为美丽，可作观赏树种。分布：东区西区及南区均有栽培。我国各地广泛栽培。
+	</string>
+    <string name="_60location">
+		暂无。
+	</string>
+    <string name="_60supplement">
+		东区校史馆南侧及南区栽培有重瓣粉海棠M.spectabilis(Ait.)Borkh.var.riversii(Kirchn.)Rehd.,花重瓣，开放后花瓣常带紫红色。花期3月下旬至4月上旬，果期8~9月。春季满树缀以粉白色花朵，甚为美丽，可作观赏树种。我国各地均有栽培。
+	</string>
+    <string name="_60nickname">
+		暂无
+	</string>
+
+    <string name="_61name">
+		花红
+	</string>
+    <string name="_61species">
+		蔷薇科	苹果属
+	</string>
+    <string name="_61feature">
+		落叶小乔木，嫩枝和叶具短柔毛。叶柄长2~5厘米。雄蕊17~20枚，长短不等，短花瓣。花柱长千雄蕊，基部具长绒毛。梨果直径4~5厘米，基部陷入，宿存萼肥厚隆起。
+	</string>
+    <string name="_61values">
+		园林绿化；果实可食用。
+	</string>
+    <string name="_61location">
+		东区北门旁边有栽培。分布千华北、华中和西南等地。
+	</string>
+    <string name="_61supplement">
+		暂无。
+	</string>
+    <string name="_61nickname">
+		暂无
+	</string>
+
+    <string name="_62name">
+		粉花绣线菊
+	</string>
+    <string name="_62species">
+		蔷薇科	绣线菊属
+	</string>
+    <string name="_62feature">
+		直立灌木。叶片卵形至卵状椭圆形，先端急尖至短渐尖，基部樑形，叶缘有缺刻状重锯齿或单锯齿，上面暗绿色。复伞房花序生千节年生的打立新枝顶端，花朵密集；花瓣卵形至圆形，先端通常圆钝，粉红色；雄蕊多数。仵类果半开张。花期5~7月，果期8~9月。
+	</string>
+    <string name="_62values">
+		栽培观赏。
+	</string>
+    <string name="_62location">
+		东区眼镜湖边、西区北门南侧栽培较多。原产千门本、朝鲜。我国各地有栽培。
+	</string>
+    <string name="_62supplement">
+		东区眼镜湖边、西区北门南侧栽培有单瓣李叶绣线菊，叶缘有细锐单锯齿。伞形花序无总梗，具化3~6朵基部着生数枚小型叶片；花瓣宽倒卵形，直径达1厘米，白色。花期3月，果期4~7月。栽培观赏。原产千日本、朝鲜。我国各地栽培观赏。李叶绣线菊，即俗称“笑雁花”，为重瓣。
+	</string>
+    <string name="_62nickname">
+		暂无
+	</string>
+
+    <string name="_63name">
+		菱叶绣线菊
+	</string>
+    <string name="_63species">
+		蔷薇科	绣线菊属
+	</string>
+    <string name="_63feature">
+		湖木。叶片菱状卵形至菱状倒卵盘圆环形，具大小不等的裂片，子房无毛。仵形，通常3~5裂基部樑形，叶缘有缺刻状重锯荚果稍开张，花柱近直立，萼片直立开张。花齿，两面无毛具不显著，3脉或羽状脉。伞形花期4月。序具总梗，有多数花朵基部具数枚叶片。多数，部分雄蕊不发育，长约花瓣的1/3-1/2；近圆形，先端钝，长与宽各3~4毫米，白色；雄蕊
+	</string>
+    <string name="_63values">
+		栽培观赏。
+	</string>
+    <string name="_63location">
+		西区4号楼附近、东区石榴园有栽花培。分布于华东和华南等地。
+	</string>
+    <string name="_63supplement">
+		暂无。
+	</string>
+    <string name="_63nickname">
+		暂无
+	</string>
+
+    <string name="_64name">
+		插田泡
+	</string>
+    <string name="_64species">
+		蔷薇科	悬钩子属
+	</string>
+    <string name="_64feature">
+		灌木。枝具近直立或钩状扁平皮刺。小叶通常5枚，稀3枚卵形、菱状卵形或宽卵形，叶缘有不整齐粗锯齿或缺刻状粗锯齿，侧生小叶近无柄，与叶轴均被短柔毛和疏生钩状小皮刺；托叶线状披针形。伞房花序生千侧枝顶端，具花数朵至三十几朵，苞片线形，萼片花时开展，果时反折；花瓣倒卵形，淡红色至深红色，与萼片近等长或稍短；雄蕊比花瓣短或近等长，花丝带粉红色；雌蕊多数。果实近球形，深红色至紫黑色。花期4月，果期6~8月。
+	</string>
+    <string name="_64values">
+		果实味酸甜，可生食。果实、根、叶可入药。
+	</string>
+    <string name="_64location">
+		西区北门附近围栏边有栽培。分布千华北、华东和华中等地。
+	</string>
+    <string name="_64supplement">
+		暂无。
+	</string>
+    <string name="_64nickname">
+		暂无
+	</string>
+
+    <string name="_65name">
+		茅苺
+	</string>
+    <string name="_65species">
+		蔷薇科	悬钩子属
+	</string>
+    <string name="_65feature">
+		灌木。小叶3枚，菱状圆形或倒卵形，顶端圆钝或急尖，基部圆形或宽樑形，下面密被灰白色绒毛，叶缘有不整齐粗锯齿或缺刻状租重锯齿。伞房花序顶生或腋生，花序成短总状，被柔毛和细刺；花梗具柔毛和稀疏小皮剌，花驾外面密被柔毛和疏密不等的针刺；花瓣卵圆形，粉红至紫红色，基部具爪；雄蕊花丝白色。果实红色。花期3~5月，果期5~8月。
+	</string>
+    <string name="_65values">
+		果实酸甜多汁，可供食用、酿酒等。全株入药。
+	</string>
+    <string name="_65location">
+		西区第三教学楼到西区学生活动中心路旁有野生。我国各地都有分布。
+	</string>
+    <string name="_65supplement">
+		西区也西湖旁和东区家属区生长有悬钩子属的另一种植物，为落叶半灌木，具皮刺。奇数羽状复叶，小叶3~7枚，两面具细柔毛。花常单生枝顶，白色。聚合果球形，红色。花期4月，果期5月。果酸甜可食；全株入药。分布于淮河流域以南地区。
+	</string>
+    <string name="_65nickname">
+		暂无
+	</string>
+
+    <string name="_66name">
+		火棘
+	</string>
+    <string name="_66species">
+		蔷薇科	火棘属
+	</string>
+    <string name="_66feature">
+		常绿灌木；侧枝短，先端成刺状。叶片倒卵形，长1.5~6厘米，宽0.5~2厘米，先端圆钝或微凹，叶缘有钝锯齿，近基部全缘，两面皆无毛；叶柄短。花集成复伞房花序，花瓣白色，近圆形，长约4毫米；雄蕊20枚；花柱5枚，离生，与雄蕊等长。果实近球形，直径约5毫米，橘红色或深红色。花期4~5月，果期8~10月。
+	</string>
+    <string name="_66values">
+		园林观赏植物，作绿篱。果实可生食，或磨粉可代食品。
+	</string>
+    <string name="_66location">
+		校园常见植物。分布千我国中部、东部西南等地。
+	</string>
+    <string name="_66supplement">
+		鲜红色果实在枝头形似火把，俗称“火把果＂。因侧枝成刺，故称“火棘＂。
+	</string>
+    <string name="_66nickname">
+		火把果
+	</string>
+
+    <string name="_67name">
+		石楠
+	</string>
+    <string name="_67species">
+		蔷薇科	石楠属
+	</string>
+    <string name="_67feature">
+		常绿灌木或小乔木。叶片革质，长椭圆形，叶缘有疏生具腺细锯齿，近基部全缘，上而光亮。复伞房花序顶生，盛开时具浓郁的异味；花密生；花瓣白色，雄蕊20枚。果实红色。花期4月，果期10月。
+	</string>
+    <string name="_67values">
+		园林绿化植物。种子可祚油。叶、根可供药用。
+	</string>
+    <string name="_67location">
+		校园常见植物。分布千我国秦岭至长江流域以南各地。
+	</string>
+    <string name="_67supplement">
+		校园常有栽培红叶石楠，常绿小灌木。新叶及新芽完红色直立。花期4月中旬，果期9~10月。因春季新叶红艳，夏季转绿，秋冬季呈红色，可作观叶怕物。我国大部分地区均有栽培。
+	</string>
+    <string name="_67nickname">
+		古木、千年红
+	</string>
+
+    <string name="_68name">
+		椤木石楠
+	</string>
+    <string name="_68species">
+		蔷薇科	石楠属
+	</string>
+    <string name="_68feature">
+		常绿乔木，常具枝刺。叶片革质，长圆形或倒披针形，长5~15厘米；叶柄长0.8-1.5厘米。花多数，密集成顶生复伞房花序；总花梗和花梗有平贴短柔毛，花白色，直径1~1.2厘米；花瓣圆形；雄蕊20枚；花柱2枚，基部合生并密被白色长柔毛。果圆球形，紫红色。花期4月下旬至5月，果期9~10月。
+	</string>
+    <string name="_68values">
+		冬季叶片常绿井缀有紫红色果实，颇为美观，为园林绿化树种。木材坚硬。
+	</string>
+    <string name="_68location">
+		西区	研究生宿舍西侧有栽培。分布于华东、华中、西北、南部和西南等地。
+	</string>
+    <string name="_68supplement">
+		暂无。
+	</string>
+    <string name="_68nickname">
+		暂无
+	</string>
+
+    <string name="_69name">
+		皂荚
+	</string>
+    <string name="_69species">
+		豆科	皂芙属
+	</string>
+    <string name="_69feature">
+		落叶乔木。树干生棘刺，相壮，常分支。偶数羽状复叶，互生，小叶3~9对，纸质，卵状披针形至长圆形，边缘具细锯齿。总状花序腋化或顶生；花杂性，黄白色；的片4枚，兰角状披针形；花瓣4枚。荚果带状。花期4月下旬至5月；果期5~12月。
+	</string>
+    <string name="_69values">
+		可作木材。英果宫含皂素，可代肥皂。果炎和种了可入药。
+	</string>
+    <string name="_69location">
+		东区少年班学院门前打栽培。分布于我国大部分地区。
+	</string>
+    <string name="_69supplement">
+		暂无。
+	</string>
+    <string name="_69nickname">
+		暂无
+	</string>
+
+    <string name="_70name">
+		暂无
+	</string>
+    <string name="_70species">
+		豆科	槐属
+	</string>
+    <string name="_70feature">
+		乔木。羽状复叶，互生，长25厘米；小叶4~7对；托叶形状多变，早落；小托叶2枚。圆锥花序顶生，常呈金字塔形；花冠白色或淡黄色。荚果串珠状，成熟后不开裂。花期7~8月，果期8~10月。
+	</string>
+    <string name="_70values">
+		可作木材。栽培观赏。根皮、槐花和果实均入药。
+	</string>
+    <string name="_70location">
+		东区东门附近有栽培。原产于中国现广泛栽培。
+	</string>
+    <string name="_70supplement">
+		校园内还有槐的一个变种－金枝槐，特点是枝条为金黄色。此外，校园常有栽培龙爪槐，枝和小枝均下垂，并向不同方向弯曲盘旋。花期7~8月，果期8~10月。因树型优美，可栽培供观赏。原产中国。因枝条均下垂，形似龙爪，故名“龙爪槐＂，为槐的芽突变种类。用槐作站木，嫁接繁殖。
+	</string>
+    <string name="_70nickname">
+		豆槐、槐花树
+	</string>
+
+    <string name="_71name">
+		刺槐
+	</string>
+    <string name="_71species">
+		豆科	刺槐属
+	</string>
+    <string name="_71feature">
+		落叶乔木，树皮浅裂至深纵裂。羽状复叶，互生，长10~25厘米；小叶2~12对，椭圆形、长椭圆形或卵形，全缘；托叶刺状。总状花序腋生，苞片早落，萼齿5枚，三角形至卵状三角形，花冠白色。荚果褐色，扁平。花期4月，果期8~9月。
+	</string>
+    <string name="_71values">
+		行道树。可作木材。
+	</string>
+    <string name="_71location">
+		西区也西湖西侧及研究生宿舍附近有栽培。原产于美国东部，现全国各地广泛栽植。
+	</string>
+    <string name="_71supplement">
+		暂无。
+	</string>
+    <string name="_71nickname">
+		洋槐
+	</string>
+
+    <string name="_72name">
+		紫荆
+	</string>
+    <string name="_72species">
+		豆科	紫荆属
+	</string>
+    <string name="_72feature">
+		落叶灌木。树皮和小枝灰自色。叶  互生 ，近圆形或 三角状圆形，基部浅至深 心形。花紫红色或粉红色，2 ～10 余朵成束 ，簇生千老枝和主干上，常先千叶开放；龙骨瓣基部具深  紫色斑纹。荚果扁狭长形，喙细而弯曲。花期 3~4 月，果期8~ l0 月。
+	</string>
+    <string name="_72values">
+		园林绿化植物。树皮可入药，有清 热解蒜，活血行气，消肿止痛之功效。
+	</string>
+    <string name="_72location">
+		校园有栽培。分布千我国东南部。
+	</string>
+    <string name="_72supplement">
+		中国香港的区花为羊蹄甲属的植物洋紫荆，而不是本种。东区专家楼旁栽培有豆科黄檀属的黄檀，为落叶乔木。单数羽状复叶，互生，小叶近互生，椭圆形，长3~5厘米，顶端微凹，叶轴基部具叶枕，托叶早落。圆锥花序近生枝顶；蝶形花，雄蕊10枚，合生成5与5两束。荚果。花果期5~l0月。分布千长江流域。
+	</string>
+    <string name="_72nickname">
+		暂无
+	</string>
+
+    <string name="_73name">
+		双荚决明
+	</string>
+    <string name="_73species">
+		豆科	决明属
+	</string>
+    <string name="_73feature">
+		半常绿泄木。偶数羽状复叶，互生，小叶3~4对，在每对小叶间和叶轴上有l个腺体；小叶卵形或卵状披针形，两面无毛。总状花序腋生或顶生，具花4~10花；萼片黄绿色；花瓣黄色；能育雄蕊7枚，其中3枚较长，不育雄蕊3枚。荚果圆柱形。花期7~l0月，果期10~11月。
+	</string>
+    <string name="_73values">
+		栽培观赏。
+	</string>
+    <string name="_73location">
+		西区生院南侧、严济慈铜像南侧有栽培。原产美洲热带地区。我国广东、广西等地有栽培。
+	</string>
+    <string name="_73supplement">
+		暂无。
+	</string>
+    <string name="_73nickname">
+		暂无
+	</string>
+
+    <string name="_74name">
+		合欢
+	</string>
+    <string name="_74species">
+		都可	合欢属
+	</string>
+    <string name="_74feature">
+		落叶乔木。二回羽状复叶，互生，小叶l0~30对，线形至长圆形，向上偏斜；托叶线	状披针形，早落。头状花序千枝顶排成圆锥花序；花粉红色；花萼管状，花冠长8毫米，裂片气伯形，花哼、花冠外均被短柔毛；花丝细长，约2.5厘米。英果带状。花期6月，果期9~l0月。
+	</string>
+    <string name="_74values">
+		可作行道树、观赏树。树皮供药用。也可作木材。
+	</string>
+    <string name="_74location">
+		校同常见栽培植物。分布千我国东北至华南及西南部各地。
+	</string>
+    <string name="_74supplement">
+		占人常借合欢寄托相思之情，如诗云：“不见合欢花，空倚相思树”。
+	</string>
+    <string name="_74nickname">
+		绒花树
+	</string>
+
+    <string name="_75name">
+		毛叶山桐子
+	</string>
+    <string name="_75species">
+		大风子科	山桐子属
+	</string>
+    <string name="_75feature">
+		落叶乔木。树皮灰白色，平滑，小枝密生短柔毛。叶互生，卵形或圆状卵形，边缘具疏锯齿，叶下而密生短柔毛，掌状基出脉5~7条；叶柄下部具2~4枚腺体。圆锥花序，花序梗和花梗有密毛；花单性，雌雄异株或杂性；花黄绿色，萼片常5枚；雄花具多数雄蕊；雌花子房球形，花柱5或6枚，向外平展。浆果球形，成熟时红色。花期4月下旬至5月，果期10～11月。
+	</string>
+    <string name="_75values">
+		木材优良。种子梓的油可作润滑油。既可观叶，又可赏果，为绿化的理想树种。
+	</string>
+    <string name="_75location">
+		东区老图书馆东边栽植2棵。分布千华东、华南、西北、西南地区。
+	</string>
+    <string name="_75supplement">
+		山桐子是绿化树种中的珍品，因地势低洼和大树遮阴等，长势不良，多年未见开花结果，建议校绿化部门采取措施，对其加强管护。
+	</string>
+    <string name="_75nickname">
+		暂无
+	</string>
+
+    <string name="_76name">
+		无患子
+	</string>
+    <string name="_76species">
+		无患子科	无患子属
+	</string>
+    <string name="_76feature">
+		落叶乔木。树皮灰黑色。偶数羽状复叶，互生，小叶8~12对，叶片薄纸质，长椭圆状披针形或稍呈锄状。圆锥花序顶生；花小，辐射对称，萼片5枚；花瓣5枚；雄蕊8枚，花丝下部有长柔毛。核果球形，熟时黄色或橙黄色，基部一侧具一分果瓣脱落后留下的痕迹。花期春季，果期夏秋。
+	</string>
+    <string name="_76values">
+		秋季树叶变为鲜黄色，极为美丽，可观赏。木材优良。果皮含有皂素，可代肥皂。
+	</string>
+    <string name="_76location">
+		校园常见栽培。分布于我国东部、南部至西南部地区。
+	</string>
+    <string name="_76supplement">
+		相传以无患子的木材制成的木棒可以驱魔杀鬼，故得名无患子。
+	</string>
+    <string name="_76nickname">
+		暂无
+	</string>
+
+    <string name="_77name">
+		山茶
+	</string>
+    <string name="_77species">
+		山茶科	山茶属
+	</string>
+    <string name="_77feature">
+		常绿植物。单叶互生，椭圆形，革质，具光泽。花生千枝顶，苞片与萼片约10枚，花瓣6~7枚，或重瓣，雄蕊3轮。葫果。花期2~4月。
+	</string>
+    <string name="_77values">
+		山茶为我国十大名花之一，花中娇客。白居易有诗云：＂飘香送艳春多少，犹如真红耐久花。“我们的老校长郭沫若先生生前非常喜爱山茶，诗云：＂人人都道牡丹好，我道牡丹不及茶。“花可药用。
+	</string>
+    <string name="_77location">
+		西区图书馆和东区专家楼均有栽培。品种较多，广泛栽培。
+	</string>
+    <string name="_77supplement">
+		校园还有同属的植物——油茶，叶片长4~5厘米，幼期中脉具毛；叶柄3~6毫米，幼期具毛。花l~3朵生于枝顶或叶腋，苞片和萼片具丝状毛，花白色。花期1~2月。种子可梓油。东区眼镜湖周围有栽培。分布千秦岭至淮河流域以南地区。
+	</string>
+    <string name="_77nickname">
+		暂无
+	</string>
+
+    <string name="_78name">
+		木荷
+	</string>
+    <string name="_78species">
+		山茶科	木荷属
+	</string>
+    <string name="_78feature">
+		常绿乔木。单叶互生，簇生枝端，椭圆形，革质，中部和上部具疏齿，具叶柄。总状花序顶生，花芳香，白色；花5基数，雄蕊多数，花药丁字形着生。花期5~7月。
+	</string>
+    <string name="_78values">
+		为重要的用材树种。
+	</string>
+    <string name="_78location">
+		东区专家楼旁有栽培。分布千长江以南地区。
+	</string>
+    <string name="_78supplement">
+		暂无。
+	</string>
+    <string name="_78nickname">
+		暂无
+	</string>
+
+    <string name="_79name">
+		金丝桃
+	</string>
+    <string name="_79species">
+		藤黄科	金丝桃属
+	</string>
+    <string name="_79feature">
+		泄木。茎红色。叶对生，叶片倒披针形至长圆形，坚纸质。花序具1~15(~30)朵花，疏松的近伞房状；花瓣黄色，开张，三角状倒卵形；雄蕊多数，基部合生为5束，花瓣儿等长，花柱合生儿达顶端，顶端5裂。频果。花期5~7月，果期8~9月。
+	</string>
+    <string name="_79values">
+		花美刚，供观赏。果作连翘代用品，根能祛风、治跌打损伤等。
+	</string>
+    <string name="_79location">
+		东区眼镜湖畔，西区校车站旁较多。分布千我国大部分地区。
+	</string>
+    <string name="_79supplement">
+		暂无。
+	</string>
+    <string name="_79nickname">
+		金线蝴蝶、金丝海棠
+	</string>
+
+    <string name="_80name">
+		金丝梅
+	</string>
+    <string name="_80species">
+		藤黄科	金丝桃属
+	</string>
+    <string name="_80feature">
+		茎和枝具2纵棱。花瓣全缘或略为嗤蚀状小齿；雄蕊长度不超过花瓣的一半。花期5~7月，果期8~9月。
+	</string>
+    <string name="_80values">
+		因花大而美丽，可供观赏。
+	</string>
+    <string name="_80location">
+		东区石榴园有栽培。分布于我国大部分地区。
+	</string>
+    <string name="_80supplement">
+		暂无。
+	</string>
+    <string name="_80nickname">
+		暂无
+	</string>
+
+    <string name="_81name">
+		黄连木
+	</string>
+    <string name="_81species">
+		漆树科	黄连木属
+	</string>
+    <string name="_81feature">
+		落叶乔木。树干扭曲，树皮暗褐色，呈鳞片状剥落。奇数羽状复叶，互生，小叶5~7	对，披针形或卵状披针形，全缘，先端渐尖，基部偏斜。圆锥花序腋生；先叶开放；花小，无花瓣。核果倒卵状扁球形，成熟时紫红色。花期4月，果期9~11月。
+	</string>
+    <string name="_81values">
+		可作木材。种子的悴油可作润滑油或制皂。
+	</string>
+    <string name="_81location">
+		西区力三楼西侧有栽培。分布千长	江以南各地及华北、西北地区。
+	</string>
+    <string name="_81supplement">
+		暂无。
+	</string>
+    <string name="_81nickname">
+		暂无
+	</string>
+
+    <string name="_82name">
+		臭椿
+	</string>
+    <string name="_82species">
+		苦木科	臭椿属
+	</string>
+    <string name="_82feature">
+		落叶乔木。叶为奇数羽状复叶，互生，小叶l3~27枚；纸质，卵状披针形，基部偏斜，两侧各具1或2枚粗锯齿，齿背有腺体1枚，揉碎后有臭味。圆锥花序，花淡绿色。翅果长椭圆形，内有1粒种子，位于翅果近中部。花期5月，果期8~10月。
+	</string>
+    <string name="_82values">
+		可作木材。叶可饲椿蚕。
+	</string>
+    <string name="_82location">
+		西区第三教学楼北侧、东区中门停车场内和研究生宿舍东侧等地有栽培。分布千我国大部分地区。
+	</string>
+    <string name="_82supplement">
+		暂无。
+	</string>
+    <string name="_82nickname">
+		棕树
+	</string>
+
+    <string name="_83name">
+		楝
+	</string>
+    <string name="_83species">
+		楝科	悚属
+	</string>
+    <string name="_83feature">
+		落叶乔木。叶为2~3回奇数羽状复叶，互生，小叶卵形至披针形。圆锥花序约与叶等长；花瓣淡紫色；雄蕊管紫色，有纵细脉，管口有钻形、2~3齿裂的狭裂片10枚，花药10枚。核果球形至椭圆形；种子椭圆形。花期4~5月，果期10-12月。
+	</string>
+    <string name="_83values">
+		园林绿化植物。可作木材。鲜叶可作农药，有毒。果核仁油可供制油漆、润滑油和肥皂。
+	</string>
+    <string name="_83location">
+		西区北门、也西湖附近可见。分布千黄河以南各地，目前广泛栽培。
+	</string>
+    <string name="_83supplement">
+		楝读“lian＂。楝花开罢，春天也就要结束了，所以有“处处社时茅屋雨，年年春后楝花风”的诗句。
+	</string>
+    <string name="_83nickname">
+		苦楝、紫花树
+	</string>
+
+    <string name="_84name">
+		香椿
+	</string>
+    <string name="_84species">
+		楝科	香椿属
+	</string>
+    <string name="_84feature">
+		落叶乔木。偶数羽状复叶，互生。花瓣5枚，白色。频果，种子具翅。花期5月下旬至6月，果期8~l0月。
+	</string>
+    <string name="_84values">
+		幼芽嫩叶芳香可口，供蔬食。木材优良。
+	</string>
+    <string name="_84location">
+		东区	家属区附近有栽培。分布千我国大部分地区。
+	</string>
+    <string name="_84supplement">
+		暂无。
+	</string>
+    <string name="_84nickname">
+		暂无
+	</string>
+
+    <string name="_85name">
+		重阳木
+	</string>
+    <string name="_85species">
+		大戟科	秋枫属
+	</string>
+    <string name="_85feature">
+		落叶乔木。三出复叶，互生；小叶片纸质，卵形或椭圆状卵形，基部圆或浅心形，叶缘具钝细锯齿，顶生小叶通常较两侧的大。花雌雄异株，春季与叶同时开放，组成总状花序，通常着生于新枝的下部，花序轴纤细而下垂；雄花花丝短，有明显的退化雌蕊；雌花的萼片与雄花的相同，有白色膜质的边缘。果实圆球形，成熟时褐红色。花期4~5月，果期10~11月。
+	</string>
+    <string name="_85values">
+		可作木材、行道树。果肉可酿酒。
+	</string>
+    <string name="_85location">
+		东区食堂西侧、图书馆附近、家属区、西区等地有栽培。分布千我国东部、中部花序和西南部地区。
+	</string>
+    <string name="_85supplement">
+		暂无。
+	</string>
+    <string name="_85nickname">
+		乌杨、茄冬树
+	</string>
+
+    <string name="_86name">
+		乌桕
+	</string>
+    <string name="_86species">
+		大戟科	乌柏属
+	</string>
+    <string name="_86feature">
+		乔木，具乳状汁液。叶互生，菱形、菱状卵形或稀有菱状倒卵形，全缘。花单性，雌雄同株同序，总状花序，雌花常生千花序轴基部，子房卵球形，花柱3枚；雄蕊2枚。朔果成熟时黑色；种子扁球形，黑色，外被白色、蜡质的假种皮。花期6月，果期10~11月。
+	</string>
+    <string name="_86values">
+		秋冬季节叶片变为红色、黄色，极具观赏价值。根皮治毒蛇咬伤。白色蜡质假种皮可制肥皂、蜡烛，种子可提取油。
+	</string>
+    <string name="_86location">
+		东区食堂门口、西区常见栽培，或野生。在我国主要分布千黄河以南各地。
+	</string>
+    <string name="_86supplement">
+		柏读”jiu”。
+	</string>
+    <string name="_86nickname">
+		腊子树、柏子树
+	</string>
+
+    <string name="_87name">
+		山麻杆
+	</string>
+    <string name="_87species">
+		大戟科	山麻杆属
+	</string>
+    <string name="_87feature">
+		落叶灌木。叶互生，阔卵形或近圆形，顶端渐尖，基部心形、浅心形或近截平，叶缘具粗锯齿或具细齿，下面基部具斑状腺体2或4枚。雌雄同株或异株，雄花序穗状，1～3枚生千一年生枝已落叶腋部，雄花萼片3(～4)枚，雄蕊6~8枚；雌花序总状，顶生。雌花萼片5枚；子房球形，被绒毛，花柱3枚，线状。朔果近球形，具3圆形棱。花期3~4月，果期5~8月。
+	</string>
+    <string name="_87values">
+		早春嫩叶初放时红色，醒目美观，为园林绿化观叶植物。茎皮纤维为制纸原料。叶可作饲料。
+	</string>
+    <string name="_87location">
+		西区篮球场旁和力学楼附近、东区活动中心附近有栽培。分布于秦岭以南地区。
+	</string>
+    <string name="_87supplement">
+		暂无。
+	</string>
+    <string name="_87nickname">
+		荷包麻
+	</string>
+
+    <string name="_88name">
+		花椒
+	</string>
+    <string name="_88species">
+		芸香科	花椒属
+	</string>
+    <string name="_88feature">
+		灌木，具皮刺。奇数羽状复叶，小叶3~9枚，背面中脉基部具褐色柔毛，叶轴具狭翅。聚伞圆锥花序顶生；朔果表面具抚状凸起的油点。花期4~5月，果熟期9月。
+	</string>
+    <string name="_88values">
+		果实作调味香料，或提取芳香油，也可人药。
+	</string>
+    <string name="_88location">
+		东区家展区有栽培。秦岭至淮河以南广布。
+	</string>
+    <string name="_88supplement">
+		暂无。
+	</string>
+    <string name="_88nickname">
+		暂无
+	</string>
+
+    <string name="_89name">
+		黄杨
+	</string>
+    <string name="_89species">
+		黄杨科	黄杨属
+	</string>
+    <string name="_89feature">
+		灌木或小乔木。小枝四棱形。叶对生，革质，椭圆形，先端圆或钝，常有小凹口，基部圆或急尖或樑形，叶面光亮，中脉凸出。花序腋生，头状，花密集，花序轴长3~4毫米，被毛，苞片阔卵形，长2-2.5毫米，背部多少有毛；雄花约10朵，无花梗，不育雄蕊有棒状柄，末端膨大；雌花花柱粗扁，柱头倒心形。萌果近球形。花期3月，果期10~11月。
+	</string>
+    <string name="_89values">
+		栽培观赏。
+	</string>
+    <string name="_89location">
+		校园常见。分布千陕西、甘肃以及长江以南等地。
+	</string>
+    <string name="_89supplement">
+		东区眼镜湖旁栽培有雀舌黄杨，叶片倒披针形，或长圆状倒披针形，长2.5~4厘米，宽8~15毫米，顶端微凹，中脉两面隆起，具光泽。分布千长江流域以南地区。
+	</string>
+    <string name="_89nickname">
+		黄杨木
+	</string>
+
+    <string name="_90name">
+		冬青卫矛
+	</string>
+    <string name="_90species">
+		卫矛科	卫矛属
+	</string>
+    <string name="_90feature">
+		灌木。小枝四棱形。叶对生，革质，有光泽，倒卵形或椭圆形，先端圆阔或急尖，基部樑形，叶缘具有浅细钝齿。聚伞花序5~12花，花序梗长2~5厘米，2～3次分枝；花白绿色，花瓣近卵圆形，雄蕊花药长圆状。萌果近球状，直径约8毫米，淡红色；种子假种皮橘红色，全包种子。花期6月，果熟期9~10月。
+	</string>
+    <string name="_90values">
+		栽培观赏。
+	</string>
+    <string name="_90location">
+		校园常见。我国南北各地均有栽培。
+	</string>
+    <string name="_90supplement">
+		校园内还有金边黄杨等栽培变型。
+	</string>
+    <string name="_90nickname">
+		大叶从杨
+	</string>
+
+    <string name="_91name">
+		构骨
+	</string>
+    <string name="_91species">
+		暂无
+	</string>
+    <string name="_91feature">
+		常绿灌木。叶互生，厚革质，叶具两型，具刺的叶植株，叶两侧各具1~2枚刺，顶刺向背面反折；无刺的植株，叶卵形，全缘，顶端具刺或无刺；刺形叶四角状长圆形或卵形，先端具3枚坚硬刺齿，中央刺齿常反曲，基部圆形或近截形，两侧各具1~2刺齿。花序簇生千二年生枝的叶腋内；花单性，淡黄色，4基数。果球形，成熟时鲜红色。果期8~11月。
+	</string>
+    <string name="_91values">
+		因四季常绿，叶形奇特，常作绿篱。
+	</string>
+    <string name="_91location">
+		西区第三教学楼附近有栽培。分布于我国华东等地。
+	</string>
+    <string name="_91supplement">
+		无刺构骨为构骨的多态变异，区别在千无刺构骨的叶卵圆形，叶缘无刺齿，在西区科技楼南侧、中区理化实验中心南侧的草地上可见。此外，东栽培变种，叶片卵形或椭圆形，革质，向腹而凸区栽植有冬青屈的另一种柏物，龟甲冬青，形似＂龟甲”而得名。现常栽培作绿篱。
+	</string>
+    <string name="_91nickname">
+		猫儿刺、老虎刺
+	</string>
+
+    <string name="_92name">
+		三角槭
+	</string>
+    <string name="_92species">
+		槭树科	槭属
+	</string>
+    <string name="_92feature">
+		落叶小乔木。叶交互对生，叶纸质，椭圆形或倒卵形，基部近千圆形或樑形，通常浅3 裂，被白粉 基 生脉3 条。花多数常成顶生被短柔毛的伞房花序 ，萼片5 枚，黄绿色，卵形；花瓣 5 枚，淡黄色； 雄蕊 8 枚，与萼片等长或微短，花梗长5~ 10 亳米。小坚果双生，具翅，翅与小坚果共 长 2~2.5 厘米，基部狭窄，张开成锐角或近千直立。花期4月，果期8 月。
+	</string>
+    <string name="_92values">
+		栽培观赏。
+	</string>
+    <string name="_92location">
+		暂无。
+	</string>
+    <string name="_92supplement">
+		叶通常 3 浅裂，有 3 个角，故又名“三角枫＂。
+	</string>
+    <string name="_92nickname">
+		三角枫
+	</string>
+
+    <string name="_93name">
+		鸡爪槭
+	</string>
+    <string name="_93species">
+		槭树科	槭属
+	</string>
+    <string name="_93feature">
+		落叶小乔木。叶对生，基部心形，掌状深裂，裂片7枚，边缘具锐锯齿；有叶柄。伞房花序，花紫色，雄花与两性花同株，花萼及花瓣均为5枚；雄蕊8枚，柱头2裂，卷曲。双翅果，张开成钝角，成熟后棕黄色。花期3月下旬至4月上旬，果期9月。
+	</string>
+    <string name="_93values">
+		因树姿优美，叶形秀丽，秋叶红色，为优良观赏树种。
+	</string>
+    <string name="_93location">
+		西区有栽培。分布千长江流域。
+	</string>
+    <string name="_93supplement">
+		红枫（变型），叶深裂，紫红色。校园常见观叶植物。南校区栽培有橄属的色木橄（五角枫），掌状5(7)中裂，裂片全缘，叶基部平截或浅心形；叶柄细弱，长5~10厘米。顶生圆锥伞房花序。花萼和花瓣均5枚，雄蕊8枚；柱头2裂，反卷。双翅果。花期牛5月，果期8~9月。材质优良，或用千庭院绿化。分布千我国大部分地区。此外，东区第五教学楼南侧栽培有橄属的毛脉橄，落叶乔木，单叶对生，叶柄、叶脉和脉腋处具淡黄色柔毛。果序上果实密集，双翅果宽达5厘米，坚果平直，两翅开角140°~150。可用T园林绿化。为华东地区特有种。
+	</string>
+    <string name="_93nickname">
+		暂无
+	</string>
+
+    <string name="_94name">
+		七叶树
+	</string>
+    <string name="_94species">
+		七叶树科	七叶树属
+	</string>
+    <string name="_94feature">
+		落叶乔木。掌状复叶对生，小叶5~7枚，边缘有钝尖形的细锯齿，小叶具短柄。圆锥花序项生，花杂性，雄花与两性花同株；花瓣4枚，白色；雄蕊6枚。果实球形，黄褐色；种子栗褐色。花期4~5月，果期10月。
+	</string>
+    <string name="_94values">
+		园林绿化植物。可作木材。种子可作药用，梓油可制造肥皂。
+	</string>
+    <string name="_94location">
+		西区生命科学学院前栽培较多。秦岭有野生的。
+	</string>
+    <string name="_94supplement">
+		掌状复叶一般为7小叶，故称“七叶树”。种子形似板栗，有毒，不可食用。
+	</string>
+    <string name="_94nickname">
+		暂无
+	</string>
+
+    <string name="_95name">
+		栾树
+	</string>
+    <string name="_95species">
+		元患子科	栾树属
+	</string>
+    <string name="_95feature">
+		落叶乔木。一同、不完全二回或偶有二回羽状复叶，互生，纸质，小叶卵形至披针形，叶缘有不规则的钝锯齿。聚伞圆锥花序，分枝长而广展：花淡黄色，稍芬芳，花腑4枚，开花时向外反折；雄蕊8枚，朔果圆锥形，具3棱，顶端渐尖。花期8~9月，果期9~10月。
+	</string>
+    <string name="_95values">
+		庭园观赏树。花供药用。可作木材。
+	</string>
+    <string name="_95location">
+		东区眼镜湖东南侧、郭沫若广场西侧有栽培。分布千我国大部分省区。
+	</string>
+    <string name="_95supplement">
+		校园常见的还有全缘叶栾树，二回羽状复叶。圆锥花序大型。朔果椭圆形或近球形，具3棱，老熟时褐色，顶端钝或圆，有小凸尖。花期7~9月，果期9~10月。庭园观赏树。可作木材。根、花可入药。分布千华东、华南以及云南、贵州等地。
+	</string>
+    <string name="_95nickname">
+		木栾
+	</string>
+
+    <string name="_96name">
+		秀瓣杜英
+	</string>
+    <string name="_96species">
+		杜英科	杜英属
+	</string>
+    <string name="_96feature">
+		暂无。
+	</string>
+    <string name="_96values">
+		因叶片颜色鲜亮，可供观赏。
+	</string>
+    <string name="_96location">
+		西区活动中心旁边、东区化学楼附近有零星栽培。分布于我国南方和西南地区。
+	</string>
+    <string name="_96supplement">
+		暂无。
+	</string>
+    <string name="_96nickname">
+		暂无
+	</string>
+
+    <string name="_97name">
+		枳椇
+	</string>
+    <string name="_97species">
+		鼠李科	枳椇属
+	</string>
+    <string name="_97feature">
+		落叶乔木。叶互生，纸质，宽卵形或形，顶端尖，基部截形或心形，叶缘常具整齐浅而钝的细锯齿。二歧式聚伞圆锥花序，花两性；花瓣椭圆状匙形，具短爪；花盘被柔毛，花柱半裂。浆果状核果近球形，无毛；果序轴明膨大；种子暗褐色或黑紫色。花期6月，果期8~10月。
+	</string>
+    <string name="_97values">
+		膨大的果序轴可食用，或泡酒，即＂拐枣酒＇。
+	</string>
+    <string name="_97location">
+		东区图书馆南侧、西区第三教学楼	西侧路边、西区研究生食堂西南侧有栽培。我国南方大部分地区都有分布。
+	</string>
+    <string name="_97supplement">
+		积棋读“zhiju”。东区专家楼旁栽培有鼠李科枣属的枣，为落叶乔木，单叶互生，全缘，基出脉3条，叶柄短，具托叶刺。聚伞花序腋生，花小，5基数，具花盘。肉质核果。花期5~6月。为常见果树，蜜源植显物。长江流域以北广泛栽培。
+	</string>
+    <string name="_97nickname">
+		拐枣、南枳椇
+	</string>
+
+    <string name="_98name">
+		暂无
+	</string>
+    <string name="_98species">
+		梧桐科	梧桐属
+	</string>
+    <string name="_98feature">
+		落叶乔木，树皮青绿色。叶互生，心形，掌状3~5裂裂片三角形，顶端渐尖基部心形，叶柄与叶片等长。圆锥花序顶生，花淡黄绿色；萼5深裂，萼片条形，向外卷曲。砰荚果膜质有柄，成熟前开裂成叶状，每骨葵果有种子2~4粒；种子圆球形，表面有皱纹。花期6月。
+	</string>
+    <string name="_98values">
+		因叶形优美，可作观赏树木、行道树等。也可作木材。茎、叶、花、果和种子均可药用。
+	</string>
+    <string name="_98location">
+		东区校史馆附近和家属区附近有栽培。分布千我国南北各地。
+	</string>
+    <string name="_98supplement">
+		梧桐的叶片硕大，雨打梧桐的声音十分清晰，正如诗句：＂梧桐叶上三更雨，叶叶声声是别离。”
+	</string>
+    <string name="_98nickname">
+		青桐
+	</string>
+
+    <string name="_99name">
+		木槿
+	</string>
+    <string name="_99species">
+		锦葵科	木槿属
+	</string>
+    <string name="_99feature">
+		浴叶湘木。叶互生，菱形至＝角状卵形，具深浅不同的3裂或不裂，先端钝，基部樑形叶缘具不整齐齿缺；托叶线形。花单生于枝端叶腋间；副呐片6~8枚，线形；花冠钟形，淡紫色。朔果卵圆形，密被黄色星状绒毛。花期6~l0月。
+	</string>
+    <string name="_99values">
+		因花期长，可供观赏，或作绿篱。茎皮作造纸原料，可人药。
+	</string>
+    <string name="_99location">
+		西区常见栽培。原产千东亚。我国各地栽培。
+	</string>
+    <string name="_99supplement">
+		西区也西湖湖心岛栽培有木芙蓉H.mu­tabilisL．叶常5~7裂，花初开时白色或淡红色，后变深红色；雄蕊柱无毛；果丹5枚。花期9~11月。因花大而美丽，为园林观赏植物。花、叶供药用。除东北和西北外，我国各地均有分布。
+	</string>
+    <string name="_99nickname">
+		木棉、荆条
+	</string>
+
+    <string name="_100name">
+		紫薇
+	</string>
+    <string name="_100species">
+		千屈菜科	紫薇属
+	</string>
+    <string name="_100feature">
+		落叶乔木或泄木。树皮光滑，灰褐色；小枝细长，具4棱。单叶，近无柄，椭圆形或倒卵形，长3~7厘米。圆锥花序生千枝端，花3基数；花埻筒具6枚裂片；花瓣6枚，皱缩，具长爪，紫红色、蓝紫色、粉红色或白色；雄蕊36~42枚；外轮6枚生千甥筒上，明显较长。朔果，室背开裂，干燥后紫黑色；种子具翅。花期6~10月，果期9~12月。
+	</string>
+    <string name="_100values">
+		庭院栽培或作盆景观赏。树干坚硬，耐腐，nJ木材。根、树皮、叶和花均可入药。
+	</string>
+    <string name="_100location">
+		各校区常见栽培。我国中部和南部均有生长或栽培。原产于亚洲。
+	</string>
+    <string name="_100supplement">
+		紫微花期很长，“谁道花红无百门，紫微长放半年花”。据说，轻轻抓挠紫薇的树干，细枝会轻微晃动，故名＂痒痒树”。
+	</string>
+    <string name="_100nickname">
+		暂无
+	</string>
+
+    <string name="_101name">
+		结香
+	</string>
+    <string name="_101species">
+		暂无
+	</string>
+    <string name="_101feature">
+		落叶灌木。小枝褐色，常作一义分枝，韧皮极坚韧。叶簇枝端。花先叶开放，头状花序生千树顶，芳香，花畴外而密被白色丝状毛，黄色，顶端4裂，雄蕊8枚，两轮。花期2~3月，果期春夏间。
+	</string>
+    <string name="_101values">
+		园林栽培植物。全株可入药。茎皮纤维可造纸。
+	</string>
+    <string name="_101location">
+		西区5号楼、东区学生宿舍旁等地有栽培。分布于长江以南等地。
+	</string>
+    <string name="_101supplement">
+		因芒叉分枝，俗称“三义树”；枝条韧性好，将其打结也不容易折断，花芳香，故名“结香”，也俗称“打结花”。黄色部分为花萼而非花冠。东区家属区14幢楼附近栽培有瑞香，为瑞香属，常绿泄木。幼枝淡紫色。单叶，互生。球形花序生千枝顶。花呼筒状，无花瓣，雄蕊8枚，2轮生千怂筒内。花期3~5月。栽培观赏。分布长江流域以南地区。
+	</string>
+    <string name="_101nickname">
+		黄瑞香、打结花、三义树
+	</string>
+
+    <string name="_102name">
+		石榴
+	</string>
+    <string name="_102species">
+		石榴科	石榴属
+	</string>
+    <string name="_102feature">
+		落叶湖木，高3~5米。叶对生，纸质，矩圆状披针形，长2~9厘米，顶端短尖、钝尖或微凹，基部短尖至稍钝形，上面光亮，侧脉稍细密；叶柄短。花大，l～5朵生千枝顶；萼筒红色，裂片略外展，卵状三角形；花瓣大，红色、黄色或白色；子房下位，花柱长超过雄蕊。浆果近球形，直径5~l2厘米；种子多数。花期4月下旬～6月，果期9~10月。
+	</string>
+    <string name="_102values">
+		为著名水果。果皮入药。可作行道树。树皮、根皮和果皮可提制拷胶。
+	</string>
+    <string name="_102location">
+		东区石榴园栽植最多。原产千亚洲中部，全世界都有种植。
+	</string>
+    <string name="_102supplement">
+		栽培品种较多。石榴的花期较长，边开边落，正如龚自珍的诗句所说：“落红不是无悄物，化作春泥更护花。”
+	</string>
+    <string name="_102nickname">
+		暂无
+	</string>
+
+    <string name="_103name">
+		喜树
+	</string>
+    <string name="_103species">
+		蓝果树科	喜树属
+	</string>
+    <string name="_103feature">
+		落叶乔木。叶互生，矩圆状卵形或矩圆状椭圆形，全缘，中脉在上而微下凹，在下面凸起。常山2~9朵头状花序组成圆锥花序，常上部为雌花序，下部为雄花序。翅果幼时绿色，下燥后黄褐色，着生成近球形的头状果序。花期7月，果期9月。
+	</string>
+    <string name="_103values">
+		可作庭园树或行道树。树根可作药用。
+	</string>
+    <string name="_103location">
+		西区4号楼北侧、也西湖东侧、东区足球场北侧等地有栽培。我国特有树种。
+	</string>
+    <string name="_103supplement">
+		暂无。
+	</string>
+    <string name="_103nickname">
+		旱莲木
+	</string>
+
+    <string name="_104name">
+		八角金盘
+	</string>
+    <string name="_104species">
+		五加科	八角全盘属
+	</string>
+    <string name="_104feature">
+		常绿灌木或小乔木。叶片大，革质，近圆形，掌状7~9深裂，裂片长椭圆状卵形，先端短渐尖，基部心形，叶缘有疏离粗锯齿，上表而暗亮绿。圆锥花序顶生；花瓣5枚，黄白色；雄蕊5枚，花丝与花瓣等长；子房5室，花柱5枚。果序近球形，熟时黑色。花期10-11月，果熟期翌年4月。
+	</string>
+    <string name="_104values">
+		因叶形奇特，可作观叶植物。
+	</string>
+    <string name="_104location">
+		校园常见植物。原产千日本，现各地栽培。
+	</string>
+    <string name="_104supplement">
+		暂无。
+	</string>
+    <string name="_104nickname">
+		暂无
+	</string>
+
+    <string name="_105name">
+		花叶青木
+	</string>
+    <string name="_105species">
+		山茱萸科	桃叶珊瑚属
+	</string>
+    <string name="_105feature">
+		常绿灌木，高约3米。枝、叶对生。叶革质，长椭圆形，卵状长椭圆形，先端渐尖，基部近千圆形或阔樑形，上面亮绿色，有金色斑点，叶缘上段具疏锯齿或近于全缘。圆锥花序顶生，雄花序总梗被毛；雌花序长2~3厘米，具2枚小苞片，子房被疏柔毛。果卵圆形，暗紫色或黑色。花期4月，果期8~10月。
+	</string>
+    <string name="_105values">
+		因叶片黄绿相映，十分美丽，为观叶植物。
+	</string>
+    <string name="_105location">
+		东区西门附近、老图书馆东侧，西区特种实验室附近有栽培。分布千我国长江流域以南等地。
+	</string>
+    <string name="_105supplement">
+		山千叶而有金色斑点，故称＂洒金树”“洒金珊瑚＂。
+	</string>
+    <string name="_105nickname">
+		黄斑桃叶珊瑚、洒金桃叶珊瑚、洒金树
+	</string>
+
+    <string name="_106name">
+		锦绣杜鹃
+	</string>
+    <string name="_106species">
+		杜鹃花科	杜鹃属
+	</string>
+    <string name="_106feature">
+		半常绿灌木。叶池革质，椭圆状长圆形至椭圆状披针形或长圆状倒披针形，先端钝尖，基部樑形；叶柄密被棕褐色糙伏毛。伞形花序顶生，有花1~5朵；密被淡黄褐色长柔毛；花哼大，绿色，5深裂，裂片披针形，被糙伏毛；花冠玫红色，阔漏斗形，裂片5枚，阔卵形，具深红色斑点；雄蕊JO枚；子房卵球形，密被黄褐色刚毛状糙伏毛，花柱无毛。葫果长圆状卵球形，花萼宿存。花期4月，果期9~l0月。
+	</string>
+    <string name="_106values">
+		因花大而美丽，可供观赏。
+	</string>
+    <string name="_106location">
+		西区图书馆北侧、东区郭沫若路旁有栽培。分布千我国长江中下游流域等地。
+	</string>
+    <string name="_106supplement">
+		暂无。
+	</string>
+    <string name="_106nickname">
+		鲜艳杜鹃、映山红
+	</string>
+
+    <string name="_107name">
+		木犀
+	</string>
+    <string name="_107species">
+		暂无
+	</string>
+    <string name="_107feature">
+		常绿乔木或灌木。单叶对生，革质，常椭圆形，两面无毛，常上半部具细锯齿。聚伞花序簇生于叶腋；花极芳香；花哼长约1毫米，裂片稍不整齐；花冠颜色多样。果歪斜，呈紫黑色。花期9~l0月上旬，果期翌年3月。
+	</string>
+    <string name="_107values">
+		供栽培观赏。花为名贵香料，可作食品香料。
+	</string>
+    <string name="_107location">
+		校园常见树木。原产千我国西南部。
+	</string>
+    <string name="_107supplement">
+		因其木质致密，纹理如犀，故又称木犀。桂花为我国十大名花之一，李清照酷爱桂花，且有诗句“何须浅碧深红色，自是花中第一流”。品种较多，以化色可分为金桂（探黄色）、银杜（黄臼色或近白色）和丹桂（橙红色或橙黄色）。以花期或叶形而言，还有其他品种。
+	</string>
+    <string name="_107nickname">
+		桂、桂花
+	</string>
+
+    <string name="_108name">
+		迎春花
+	</string>
+    <string name="_108species">
+		木犀科	素馨属
+	</string>
+    <string name="_108feature">
+		落叶灌木。枝条下垂，小枝四棱形。叶对生复叶；小叶片卵形、长卵形，顶生小叶片较大。花单生千上年生小枝的叶腋；花炖绿色；花冠黄色，裂片5~6枚，短千花冠筒。花期1~3月。
+	</string>
+    <string name="_108values">
+		供栽培观赏。
+	</string>
+    <string name="_108location">
+		校园常见早春开花桢物。世界各地普遍栽培。
+	</string>
+    <string name="_108supplement">
+		西区也酉湖岸边栽培有野迎春，俗称“云南黄将““云南黄素臀“，常绿亚淮木。枝条下垂，小枝四棱形，无毛。叶对生，三出复叶，侧生小叶片较小。花通常单生千叶腋，稀双生或单生千小枝顶端；苞片叶状；花梗粗壮，花冠黄色，裂片6~8枚，长千花冠筒，栽培时出现重瓣。花期3月。因花大而美丽，可供观赏。我国各地均有栽培。
+	</string>
+    <string name="_108nickname">
+		早莲木
+	</string>
+
+    <string name="_109name">
+		连翘
+	</string>
+    <string name="_109species">
+		木犀科	连翘属
+	</string>
+    <string name="_109feature">
+		落叶灌木。茎丛生，枝条开展，拱形下垂，小枝褐色，4棱形，髓心中空。单叶或3小叶复叶，对生，卵形或卵状椭圆形，中部以上具锯齿。花金黄色，单生或2至数朵簇生千叶腋；花哼4裂，裂片与花冠筒近等长；花冠4裂。勀果卵形。花期3~4月。
+	</string>
+    <string name="_109values">
+		早春开花，花色金黄，为优良的观花灌木。
+	</string>
+    <string name="_109location">
+		校园常见。除华南地区外，全囚各地均有栽培。
+	</string>
+    <string name="_109supplement">
+		校园常栽培有金钟花F，落叶泄木。恸心成膜片状。花萼裂片长约花冠筒的一半。花期3---4月。早春开花，花色金黄，为优良的观花灌木。除华南地区外，全国各地均有栽培。
+	</string>
+    <string name="_109nickname">
+		黄寿丹
+	</string>
+
+    <string name="_110name">
+		紫丁香
+	</string>
+    <string name="_110species">
+		暂无
+	</string>
+    <string name="_110feature">
+		落叶小乔木。单叶，对生，叶片革质或厚纸质，卵圆形至肾形，宽常大于长，全缘，两面无毛。圆锥花序直立，山侧芽抽生；花郫钟状，有4齿；花冠紫色，裂片水平外展或外卷；花药位于花冠筒中部或稍上。朔果长1-1.5厘米，压扁状，先端尖。花期3月下旬至4月，果期9~l0月。
+	</string>
+    <string name="_110values">
+		枝叶茂密，花美而香，为优良观赏花木。
+	</string>
+    <string name="_110location">
+		中区理化科学实验中心旁边有栽培。在南区南门西侧有几株白丁香，花冠臼色为紫丁香的变种。花期同紫丁香。分布千华北、东北、西北（除新疆）以及西南地区。
+	</string>
+    <string name="_110supplement">
+		暂无。
+	</string>
+    <string name="_110nickname">
+		暂无
+	</string>
+
+    <string name="_111name">
+		女贞
+	</string>
+    <string name="_111species">
+		木犀科	女贞属
+	</string>
+    <string name="_111feature">
+		常绿灌木或乔木。树皮灰褐色。单叶对生，革质，卵形、长卵形，叶缘全缘，上面光亮，两面无毛。圆锥花序顶生，花序轴及分枝轴无毛；苞片常与叶同形；小苞片披针形或线形；花无梗或近无梗，芳香；花瓣4枚，白色；雄蕊2枚。果肾形或近肾形，深蓝黑色，成熟时红黑色，被白粉。花期6月，果期10-12月。
+	</string>
+    <string name="_111values">
+		可作行道树。花可提取芳香油。果实、叶可入药。果含淀粉，可供酿酒或制酱油。种子油可制肥皂。
+	</string>
+    <string name="_111location">
+		校园常见行道树。分布于我国长江以南至华南、西南各地。
+	</string>
+    <string name="_111supplement">
+		暂无。
+	</string>
+    <string name="_111nickname">
+		卉蜡树、白蜡树
+	</string>
+
+    <string name="_112name">
+		小蜡
+	</string>
+    <string name="_112species">
+		木犀科	女贞属
+	</string>
+    <string name="_112feature">
+		落叶灌木。小枝淡棕色。单叶对生，叶片菏革质，形状和大小变异较大，披针形、长圆状椭圆形、椭圆形、倒卵状长圆形至倒针形或倒卵形。圆锥花序顶生，近圆柱形，处常有l对叶状苞片，小苞片卵形；花萼无齿宽卵形或钝三角形；花冠白色，雄蕊伸外，花丝与花冠裂片近等长或稍长。果紫黑色。花期4~5月，果期8~11月。
+	</string>
+    <string name="_112values">
+		叶、树皮可入药。
+	</string>
+    <string name="_112location">
+		校园常见。分布千华北、华中和西南等地。
+	</string>
+    <string name="_112supplement">
+		校园偶见同属的水蜡树，花冠筒长于裂片2~3倍，裂片不分枝反卷，花药肥大，花药与花冠裂片近等长。常毛，萼栽培作绿篱。原产日本。校园偶见小叶女贞出裂片，圆锥花序具柔毛。小花无倒卵形呈花冠筒与裂片近等长。以示区别。
+	</string>
+    <string name="_112nickname">
+		暂无
+	</string>
+
+    <string name="_113name">
+		柿
+	</string>
+    <string name="_113species">
+		柿科	柿属
+	</string>
+    <string name="_113feature">
+		落叶大乔木。树皮裂成长方块状。叶互生，常卵状椭圆形，基部樑形。花雌雄同株或异株，花序腋生，为聚伞花序；雄花序弯垂，深4裂；雌花单生叶腋，花萼绿色，有光泽，深4裂。果形变化大。花期5~6月，果期9~10月。
+	</string>
+    <string name="_113values">
+		可作园林绿化植物。可作木材。果实可食用。
+	</string>
+    <string name="_113location">
+		东区郭沫若路和家属区有栽培。原产于我国长江流域。
+	</string>
+    <string name="_113supplement">
+		东区第五教学楼附近栽培有君迁子.，雄花1~3朵簇生叶腋；花萼钟形，常4裂；雄蕊16枚，成对着生；雌花单生，花冠壶形，反曲，退化雄蕊8枚；花柱4枚；果实具宿萼。花期5~6月，果期1肛11月。成熟果实可食用，亦可制成柿饼。可入药，或作木材。分布千秦岭至淮河以南等地。
+	</string>
+    <string name="_113nickname">
+		暂无
+	</string>
+
+    <string name="_114name">
+		夹竹桃
+	</string>
+    <string name="_114species">
+		夹竹桃科	夹竹桃属
+	</string>
+    <string name="_114feature">
+		常绿直立大灌木。叶3~4枚轮生，下枝为对生，窄披针形，深绿。聚伞花序顶生：花深红色或粉红色，栽培演变有白色或黄色，猫斗状，花冠筒内面被长柔毛，花冠喉部具5枚宽鳞片状副花冠，花冠裂片倒卵形。杅葵果2枚，离生。种皮被锈色短柔毛。花期5~9月，夏秋为最盛，栽培植株很少结果。
+	</string>
+    <string name="_114values">
+		因花大而美丽，为园林绿化树种，可作行道树、绿篱。叶、茎皮可提制强心剂。
+	</string>
+    <string name="_114location">
+		西区第三教学楼北侧、科技楼东侧冠等地有栽培。分布千伊朗、印度、尼泊尔，现广泛栽培。
+	</string>
+    <string name="_114supplement">
+		叶、树皮、根、花、种子毒性极强，人、畜误食能致死。
+	</string>
+    <string name="_114nickname">
+		柳叶桃树、柳叶树
+	</string>
+
+    <string name="_115name">
+		长春花
+	</string>
+    <string name="_115species">
+		夹竹桃科	长春花属
+	</string>
+    <string name="_115feature">
+		半灌木。茎近方形，有条纹。叶膜质，倒卵状长圆形，先端浑圆，基部广樑形至樑形，渐狭而成叶柄。聚伞花序腋生或顶生，有花2~3朵；花冠红色，高脚碟状，喉部紧缩；花冠裂片宽倒卵形。骨类双生，直立。花期7~9月，果期9~10月。
+	</string>
+    <string name="_115values">
+		观赏花卉。植株可药用。
+	</string>
+    <string name="_115location">
+		校园常栽培千花坛。原产于非洲东部，栽培千热带和亚热带地区。
+	</string>
+    <string name="_115supplement">
+		栽培品种较多，花冠有红色白色等颜色。
+	</string>
+    <string name="_115nickname">
+		暂无
+	</string>
+
+    <string name="_116name">
+		牡荆
+	</string>
+    <string name="_116species">
+		马鞭草科	牡荆属
+	</string>
+    <string name="_116feature">
+		落叶灌木。小枝四棱形。叶对生，华状复叶，小叶5枚，少有3枚；小叶片披针形或椭圆状披针形，顶端渐尖，基部樑形，叶缘有粗锯齿，常被柔毛。圆锥花序顶生，长10~20厘米；花冠淡紫色。果实近球形，黑色。花期6~7月，果期8~11月。
+	</string>
+    <string name="_116values">
+		供观赏。茎皮可造纸。茎叶可入药。
+	</string>
+    <string name="_116location">
+		东区艺术中心东边有一株。分布千华东、华中和西南各地。
+	</string>
+    <string name="_116supplement">
+		像这么粗大的牡荆在城市里少见，因周围大树遮阴，长势不良，建议校绿化部门对其加强管护。
+	</string>
+    <string name="_116nickname">
+		暂无
+	</string>
+
+    <string name="_117name">
+		毛泡桐
+	</string>
+    <string name="_117species">
+		玄参科	泡桐属
+	</string>
+    <string name="_117feature">
+		乔木，高达20米。叶交互对生，叶片心脏形，长达40厘米，上面毛稀疏。花序为金字塔形或狭圆锥形；萼浅钟形，外面绒毛不脱落，分裂至中部或裂过中部；花冠紫色，漏斗状钟形，檐部2唇形。花期3月下旬至4月，果期8~9月。
+	</string>
+    <string name="_117values">
+		因花大而美丽，供观赏。
+	</string>
+    <string name="_117location">
+		西区健身区、东区家屈区有栽培。分布千华东、华中和西南等地。
+	</string>
+    <string name="_117supplement">
+		暂无。
+	</string>
+    <string name="_117nickname">
+		暂无
+	</string>
+
+    <string name="_118name">
+		梓
+	</string>
+    <string name="_118species">
+		紫葳科	梓属
+	</string>
+    <string name="_118feature">
+		落叶乔木。叶对生，稀轮生，阔卵形，顶端渐尖，基部心形，叶缘浅波状，常3浅裂，叶面粗糙。顶生圆锥花序，花冠钟状，淡黄色，内面具2黄色条纹及紫色斑点，能育雄蕊2枚。葫果线形，下垂。花期5月，果期9~11月。
+	</string>
+    <string name="_118values">
+		供栽培观赏。果实（梓实）入药。叶或树皮可做农药。
+	</string>
+    <string name="_118location">
+		东区现代艺术中心北侧、足球场南侧及家屈区有栽培。分布千东北、华北及长江流域。
+	</string>
+    <string name="_118supplement">
+		梓读”zi”。南区南门东侧栽培有揪叶三角状卵形，顶端长渐尖，全缘，两面无毛基生3出脉。顶生伞房总状花序，有花2~12朵；花冠淡红色，内面具有2黄色条纹及暗紫色斑点。花期4月，果期6~10月。树形优美，花朵美丽，可栽培观赏。木材坚硬，为良好的建筑用材。分布千我国黄河流域和长江流域。因自花授粉不亲和性，往往无果。
+	</string>
+    <string name="_118nickname">
+		梑、花梑、黄花梑
+	</string>
+
+    <string name="_119name">
+		琼花
+	</string>
+    <string name="_119species">
+		忍冬科	荚蒾属
+	</string>
+    <string name="_119feature">
+		落叶或半常绿灌木。芽、幼枝、叶柄及花序均密被灰白色或黄白色簇状短毛。叶对生，纸质，卵形至椭圆形，叶缘有小齿。聚伞花序仅周围具大型的不育花，中间为小的可育花有总花梗；可育花的萼齿卵形，长约1毫米；花冠白色，5基数，辐状；雄蕊稍高出花冠。成熟果实黑色。花期4月。
+	</string>
+    <string name="_119values">
+		因花大而美丽，供观赏。
+	</string>
+    <string name="_119location">
+		西区科技楼西北角、电三楼东侧有栽培。分布千华中和华东地区。
+	</string>
+    <string name="_119supplement">
+		暂无。
+	</string>
+    <string name="_119nickname">
+		绣球、八仙花
+	</string>
+
+    <string name="_120name">
+		锦带花
+	</string>
+    <string name="_120species">
+		忍冬科	锦带花属
+	</string>
+    <string name="_120feature">
+		落叶灌木。幼枝稍四棱形。单叶对生，椭圆形，叶缘有锯齿，具短柄至无柄。花双生或成聚伞花序生千侧生短枝，萼齿深达萼檐中部；花冠紫红色或玫瑰红色，内面浅红色；花丝短千花冠，花药黄色；花柱细长，柱头2裂。果实顶端具短喙。花期4~6月。
+	</string>
+    <string name="_120values">
+		因花朵颜色艳丽，花期长，可供观赏。
+	</string>
+    <string name="_120location">
+		西区第三教学楼南、东区眼镜湖旁有栽培。分布于东北及河北、山西、山东北部等地。
+	</string>
+    <string name="_120supplement">
+		暂无。
+	</string>
+    <string name="_120nickname">
+		每仙花
+	</string>
+
+    <string name="_121name">
+		日本珊瑚树
+	</string>
+    <string name="_121species">
+		忍冬科	荚蒾属
+	</string>
+    <string name="_121feature">
+		常绿灌木。叶对生或3叶轮生，革质，常矩圆形，基部宽樑形，叶缘常有较规则的波状浅钝锯齿，侧脉6~8对。圆锥花序生千枝	顶；花冠筒长约4毫米，裂片长2~3毫米；花柱较细，长约l毫米，柱头常高出萼齿。果实红色。花期5月，果熟期9~10月。
+	</string>
+    <string name="_121values">
+		因四季常绿，为园林绿化树种，常作绿篱。
+	</string>
+    <string name="_121location">
+		校园常见。分布千我国的浙江和台湾。日本和朝鲜也有。
+	</string>
+    <string name="_121supplement">
+		暂无。
+	</string>
+    <string name="_121nickname">
+		珊瑚树、法国冬卉
+	</string>
+
+    <string name="_122name">
+		接骨木
+	</string>
+    <string name="_122species">
+		忍冬科	接骨木属
+	</string>
+    <string name="_122feature">
+		落叶灌木。茎皮孔明显，枝髓发达，黄褐色。奇数羽状复叶，对生，小叶5~7枚。聚伞圆锥花序顶生。花小，花萼筒杯状，花冠辐状，雄蕊5枚，子房下位。浆果状核果，直径3~5毫米，红色至紫黑色。花期4~5月。
+	</string>
+    <string name="_122values">
+		为重要的中草药，俗称“接骨丹”。枝叶繁茂，红果累累，可栽培观赏。
+	</string>
+    <string name="_122location">
+		东区幼儿园围墙外和家属区48幢楼附近有零星栽培。分布千我国各地。
+	</string>
+    <string name="_122supplement">
+		暂无。
+	</string>
+    <string name="_122nickname">
+		暂无
+	</string>
+
+    <string name="_123name">
+		栀子
+	</string>
+    <string name="_123species">
+		茜草科	栀子属别名：黄果子、黄栀子
+	</string>
+    <string name="_123feature">
+		泄木。叶对生，革质，稀3枚轮生，叶形多样，常椭圆形，上面亮绿。花芳香，常单朵生千枝顶，花冠I勹色或乳黄色，高脚碟状，常6裂。果卵形，有翅状纵棱5~9条，萼片宿存。花期5~6月，果期9~l1月。
+	</string>
+    <string name="_123values">
+		因花美丽芳香，为观花植物。成熟果实可入药、提取染料，花可提取香料。
+	</string>
+    <string name="_123location">
+		校园常见，东区郭沫若广场周边、食堂南部、西区等地有栽培。分布千我国中南部。
+	</string>
+    <string name="_123supplement">
+		白蟾为栀子的变种，不同之处在千白蟾的花重瓣，校园常见。
+	</string>
+    <string name="_123nickname">
+		黄果子、黄栀子
+	</string>
+
+    <string name="_124name">
+		绣球
+	</string>
+    <string name="_124species">
+		虎耳草科	绣球属
+	</string>
+    <string name="_124feature">
+		落叶丛生灌木。叶对生，倒卵形至宽椭圆形，边缘千基部以上具粗齿；叶柄粗壮。伞房状聚伞花序近球形，花密集，多数不育；不育花萼片4枚，粉红色、淡蓝色或白色；可育花极少数，花瓣长圆形；雄蕊10枚；花柱3枚。葫果。花果期5月下旬至7月。
+	</string>
+    <string name="_124values">
+		因花大而美丽，可栽培观赏。
+	</string>
+    <string name="_124location">
+		东区家属区29号楼前有栽培。我国黄河流域以南各大城市公园常见栽培。
+	</string>
+    <string name="_124supplement">
+		因花密集呈球形，故名“绣球＂。绣球别名“紫阳花”，白居易诗赞曰：“虽在人间人不识，与君名作紫阳花。”绣球花的颜色是随着土壤酸碱度而变化的，土壤呈酸性时花呈粉红色，碱性时花呈蓝色。
+	</string>
+    <string name="_124nickname">
+		八仙花、紫阳花
+	</string>
+
+    <string name="_125name">
+		棕榈
+	</string>
+    <string name="_125species">
+		棕榈科	棕榈属
+	</string>
+    <string name="_125feature">
+		常绿柱状乔木。茎具不易脱落的密集的网状纤维状的老叶柄残基。大型叶片近圆形，深裂成30~50枚具皱折的线状剑形，裂片先短2裂或2齿。花序粗壮，从叶腋抽出，常雌雄异株。雄花黄绿色，花萼3枚，卵状急尖，雄蕊6枚；雌花序上枚有3枚佛焰苞包着；雌花淡绿色，常2~3朵聚生，退化雄蕊6枚。果成熟时巾黄色变为淡蓝色，有白粉。花期4月，果期8~10月。
+	</string>
+    <string name="_125values">
+		园林观赏树种。果实、叶、花、根等可入药。棕皮纤维可作绳索，编袋衣、棕绷、地毡等。
+	</string>
+    <string name="_125location">
+		校园常见植物。分布千长江以南各地。
+	</string>
+    <string name="_125supplement">
+		棕桐读“zonglv”。
+	</string>
+    <string name="_125nickname">
+		暂无
+	</string>
+
+    <string name="_126name">
+		凤尾丝兰
+	</string>
+    <string name="_126species">
+		百合科	丝兰属
+	</string>
+    <string name="_126feature">
+		常绿灌木。茎明显。剑形叶莲座状簇生，坚硬，叶缘近无丝状纤维，顶端呈硬刺。花荐高大而粗壮；花近白色，下垂，排成狭长的圆锥花序；花被片6枚，长3~4厘米；花丝有疏柔毛；花柱长5~6毫米。秋季开花。
+	</string>
+    <string name="_126values">
+		供栽培观赏。由于叶坚硬，顶端呈硬刺，常栽培作绿篱。
+	</string>
+    <string name="_126location">
+		原校园常见栽培，现因道路扩建被毁，建议校绿化部门补栽。原产千北美，各地均有栽培。
+	</string>
+    <string name="_126supplement">
+		暂无。
+	</string>
+    <string name="_126nickname">
+		暂无
+	</string>
+
+    <string name="_127name">
+		孝顺竹
+	</string>
+    <string name="_127species">
+		禾本科	簕竹属
+	</string>
+    <string name="_127feature">
+		杆密集丛生，高3~6米。竹节长30～40厘米，杆壁较厚，幼时节间具白色小刺毛。锌叶直立，三角形，顶端渐尖；锌叶鞘硬脆，厚纸质，绿色无毛，长为节间的1/2-3/4铎叶耳缺；锌叶舌长约1毫米。每小枝常具5~10枚叶片，叶片具次脉4~8对，无小横脉；叶鞘无毛；叶舌截平，长0.5垒米。笋期9~11月。
+	</string>
+    <string name="_127values">
+		四季常青，极具庭院观赏价值。
+	</string>
+    <string name="_127location">
+		西区第三教学楼和北门有栽培。分布千华南和酉南等地。
+	</string>
+    <string name="_127supplement">
+		竹子属于多年生一次性开花植物，开花结实后全株死亡，一般寿命60-120年。竹子的品格倍受历代文人墨客的赞赉，像苏轼的名句“：宁可食无肉，不可居无竹”。
+	</string>
+    <string name="_127nickname">
+		暂无
+	</string>
+
+    <string name="_128name">
+		观音竹
+	</string>
+    <string name="_128species">
+		禾本科	簕竹属
+	</string>
+    <string name="_128feature">
+		杆丛生，植株低矮，1～2米，铺散。茎枝细，实心，直径3~5亳米；小枝具13-23枚叶且常下弯呈弓状；叶片小而密，长2~4厘米，宽3~7毫米老叶不断脱落，新叶陆续生出。笋期夏秋季。
+	</string>
+    <string name="_128values">
+		株型别致，四季常绿，极具观赏价	值，常栽植千庭院或作绿篱。
+	</string>
+    <string name="_128location">
+		东区黄山路北门刻有校名的大石头右侧有栽植。
+	</string>
+    <string name="_128supplement">
+		暂无。
+	</string>
+    <string name="_128nickname">
+		凤尾竹
+	</string>
+
+    <string name="_129name">
+		刚竹
+	</string>
+    <string name="_129species">
+		禾本科	刚竹属
+	</string>
+    <string name="_129feature">
+		杆散生，高5~l0米，淡绿色，分枝以下的杆环不明显，微被白粉，老竹仅节下具白粉环。痒叶狭长三角形，下垂，多少波折；锌叶鞘无毛，淡肉黄色或淡绿色，其上具棕褐色斑纹和深绿色纵脉；无锌叶耳；锌叶舌微呈弧形。每小枝常具2~6枚叶片，叶片披针形，常黄绿色，长6~l5厘米，宽1.5~22厘米；叶鞘口具发达的叶耳与硬毛，老时可脱落。笋期5~7月。
+	</string>
+    <string name="_129values">
+		竹材作农具，或竹编制品。可供观赏。嫩笋可食用。
+	</string>
+    <string name="_129location">
+		西区国家同步辐射实验室园区、也西湖旁和东区幼儿园有栽培。原产我国，分布千黄河流域至长江流域以南地区。国外有栽培。
+	</string>
+    <string name="_129supplement">
+		刚竹具有多个栽培类型。此外，东区专家楼附近栽培有刚竹屈的另一种梢物－紫竹,杆高3~6米，幼杆绿色，成熟为紫色或紫黑色；筛叶淡玫瑰紫色，无斑点。叶片2或3枚生千小枝顶端；叶舌深紫色。笋期4月下旬。原产我国南方，现各地栽培。
+	</string>
+    <string name="_129nickname">
+		暂无
+	</string>
+
+    <string name="_130name">
+		菲白竹
+	</string>
+    <string name="_130species">
+		禾本科	赤竹属
+	</string>
+    <string name="_130feature">
+		多年生丛生半灌木，竹鞭纤细。和：纤细，常不分枝，高30~80厘米。小枝具7~l5枚叶片；锌叶鞘宿存，鞘口缝毛白色，叶片披针形，长8~15厘米，具黄色或近白色纵条纹。
+	</string>
+    <string name="_130values">
+		四季常青，极具庭院观赏价值，作绿篱或盆栽。
+	</string>
+    <string name="_130location">
+		西区第三教学楼旁有栽培。原产于日本。
+	</string>
+    <string name="_130supplement">
+		暂无。
+	</string>
+    <string name="_130nickname">
+		暂无
+	</string>
+
+    <string name="_131name">
+		何首乌
+	</string>
+    <string name="_131species">
+		蓼科	何首乌属
+	</string>
+    <string name="_131feature">
+		多年生缠绕草本，茎右旋。块根肥厚。茎具纵棱，无毛。单叶互生，叶卵形或长卵形，顶端渐尖，基部心形，全缘；一般叶正面有白色斑纹；托叶鞘膜质，偏斜，无毛。花序圆锥状，每苞内具2~4花；花被5深裂，白色或淡绿色裂片椭圆形，大小不等，外面3枚较大背部具翅，果时增大，雄蕊8枚，花柱3枚。瘦果具3棱，包千宿存花被内。花期9~10月，果期9~10月。
+	</string>
+    <string name="_131values">
+		可作绿化植物。块根入药。
+	</string>
+    <string name="_131location">
+		校园常见野生植物，东区操场围栏区较多。分布千华北至长江以南等地。
+	</string>
+    <string name="_131supplement">
+		暂无。
+	</string>
+    <string name="_131nickname">
+		暂无
+	</string>
+
+    <string name="_132name">
+		地锦
+	</string>
+    <string name="_132species">
+		葡萄科	地锦属
+	</string>
+    <string name="_132feature">
+		木质藤本。卷须与叶对生，卷须5~9分枝，顶端嫩时膨大呈圆球形，后遇附着物扩大成吸盘。叶两型，花枝上叶为单叶，幼枝和老枝下部的叶3全裂或3小叶复叶；叶片常倒卵圆形，三浅裂，基部心形，叶缘有粗锯齿，上面绿色，无毛，基出脉5枚；新苗和萌发枝为三出复叶。花序生于短枝上，多歧聚伞花序；花萼碟形，花瓣5枚，雄蕊5枚，花柱明显。果实球形。花期6月，果期9~10月。
+	</string>
+    <string name="_132values">
+		垂直绿化植物。根入药，能祛淤消肿。
+	</string>
+    <string name="_132location">
+		校园常见。分布千华北、华东等地。
+	</string>
+    <string name="_132supplement">
+		叶片和叶柄分别脱落，故为单身复叶。西区南侧围墙栽培有五叶地锦，木质藤本，枝条圆柱形，光滑。卷须相隔2节间断与叶对生，总状5~9分枝，末端幼嫩卷曲，遇附属物变为吸盘。学状复叶具5小叶，具粗齿。多歧聚伞花序。花期6~7月。常用千公园假山和围墙绿化。长江流域以北广泛栽植。原产千北美洲。
+	</string>
+    <string name="_132nickname">
+		爬山虎
+	</string>
+
+    <string name="_133name">
+		马兜铃
+	</string>
+    <string name="_133species">
+		马兜铃科	马兜铃属
+	</string>
+    <string name="_133feature">
+		多年生草质藤本植物，叶互生，三角形基部心形，顶端圆钝。花单生叶腋，花被基部膨大呈球状，中部细喇叭管状，顶端歪斜呈舌状，子房下位。朔果果跻不裂，自室间至果柄6裂，形似吊着的铃销。花期6~8月。
+	</string>
+    <string name="_133values">
+		根入药称“青木香”，茎入药叫“天仙藤＂，果入药谓“马兜铃＂。
+	</string>
+    <string name="_133location">
+		校园偶见。分布千黄河以南地区。
+	</string>
+    <string name="_133supplement">
+		暂无。
+	</string>
+    <string name="_133nickname">
+		暂无
+	</string>
+
+    <string name="_134name">
+		紫藤
+	</string>
+    <string name="_134species">
+		豆科	紫藤属
+	</string>
+    <string name="_134feature">
+		茎右旋。奇数羽状复叶互生，长15~25厘米；托叶线形，早落；小叶3~6对；小托叶刺毛状，宿存。先花后叶，总状花序生于短枝上，苞片披针形，早落；花长2~2.5厘米，芳香；花冠紫色，旗瓣圆形，先端略凹陷。荚果倒披针形，密被绒毛，悬垂枝上不脱落；种子l~3粒。花期3月下旬～4月，果期5~8月。
+	</string>
+    <string name="_134values">
+		本种我国自古即栽培作庭园棚架植物，花芳香，用作观赏。种子有小毒。
+	</string>
+    <string name="_134location">
+		校园常见，东区老北门、艺术中心和西区校车站附近有栽培。分布千河北以南，黄河长江流域及陕西等地。
+	</string>
+    <string name="_134supplement">
+		暂无。
+	</string>
+    <string name="_134nickname">
+		苏萝树、荣枯花
+	</string>
+
+    <string name="_135name">
+		常春藤
+	</string>
+    <string name="_135species">
+		五加科	常春藤属
+	</string>
+    <string name="_135feature">
+		常绿攀援藤本。具气生根。叶互生，革质，在不育枝上通常为三角状卵形或三角状长圆形，叶缘全缘或3裂。伞形花序单个顶生，或2~7朵总状排列，或伞房状排列成圆锥花序；花淡黄白色或淡绿白色；花瓣5枚，三角状卵形；雄蕊5枚；花盘隆起，黄色；花柱全部合生成柱状。果实球形。花期7~8月，果期翌年3~5月。
+	</string>
+    <string name="_135values">
+		枝叶供观赏用。全株入药。
+	</string>
+    <string name="_135location">
+		校园常见植物。分布千华北、华东及西南等地。
+	</string>
+    <string name="_135supplement">
+		暂无。
+	</string>
+    <string name="_135nickname">
+		暂无
+	</string>
+
+    <string name="_136name">
+		扶芳藤
+	</string>
+    <string name="_136species">
+		卫矛科	卫矛属
+	</string>
+    <string name="_136feature">
+		常绿木质藤本。具多数细小气生根附着他物。叶对生，薄革质，椭圆形、边缘齿浅不明显。聚伞花序腋生；花白绿色，4数；花盘方形。朔果粉红色，果皮光滑，近球状；假种皮鲜红色，全包种子。花期7月，果期10月。
+	</string>
+    <string name="_136values">
+		枝叶常绿，喜攀援，常作绿篱。
+	</string>
+    <string name="_136location">
+		西区也西湖岸边可见。分布于华东、华中、华北、华南及西南各地。
+	</string>
+    <string name="_136supplement">
+		暂无。
+	</string>
+    <string name="_136nickname">
+		暂无
+	</string>
+
+    <string name="_137name">
+		木防己
+	</string>
+    <string name="_137species">
+		防己科	木防己属
+	</string>
+    <string name="_137feature">
+		落叶缠绕藤本，茎右旋。单叶，互生，叶片纸质至近革质，形状多变，宽卵形或卵状长圆形，掌状基出脉3条；叶柄长1~3厘米。聚伞花序少花，或多花排成狭窄聚伞圆锥花序，顶生或腋生；雄花：萼片6枚，花瓣6枚，顶端2裂，雄蕊6枚，比花瓣短；雌花：萼片和花瓣与雄花同数，退化雄蕊6枚，微小。核果近球形。花期5~9月，果期9~10月。
+	</string>
+    <string name="_137values">
+		根和茎可供药用。茎皮纤维可制绳索，也可作人造棉及纺织原料。物油分布西区二里河边及电三楼东侧草地可见。分布千华东、华中、华南、华北及西南各地。
+	</string>
+    <string name="_137location">
+		暂无。
+	</string>
+    <string name="_137supplement">
+		暂无。
+	</string>
+    <string name="_137nickname">
+		归仁
+	</string>
+
+    <string name="_138name">
+		萝藦
+	</string>
+    <string name="_138species">
+		萝藦科	萝藦属
+	</string>
+    <string name="_138feature">
+		多年生草质藤本，具臼色乳汁。叶对生，卵状心形，顶端短渐尖，基部心形，叶耳圆，两面无毛，或幼时被微毛；叶柄顶端具丛生腺体。总状聚伞花序腋生或腋外生；花萼裂片披针形；花冠白色，有淡紫红色斑纹，近辐状，花冠筒短，裂片披针形，张升，顶端反卷，内面被柔毛；副花冠环状，着生千合蕊冠上；柱头延伸成1长喙。胥类果单生，纺锤形，顶端急尖，基部膨大。种子扁平，有膜质边缘，顶端具白色细绢毛。花期7~8月，果期9~12月。
+	</string>
+    <string name="_138values">
+		全株可药用。茎皮纤维坚韧，可作人造棉。
+	</string>
+    <string name="_138location">
+		校园可见，生于路旁湴木丛中及荒地。分布千我国华东、华中、西南、西北、华北地区。
+	</string>
+    <string name="_138supplement">
+		暂无。
+	</string>
+    <string name="_138nickname">
+		暂无
+	</string>
+
+    <string name="_139name">
+		牵牛
+	</string>
+    <string name="_139species">
+		旋花科	牵牛属
+	</string>
+    <string name="_139feature">
+		一年生缠绕草本，茎右旋，全株被粗硬毛。叶互生，近卵状心形，常3裂，顶端尖，基部心形。花序有花1~3朵；萼片5枚，基部密被开展的粗硬毛，裂片条状披针形；花冠漏斗状，白色、蓝紫色或紫红色，长5~8厘米，顶端5浅裂。朔果球形。花果期7~10月。
+	</string>
+    <string name="_139values">
+		因花大而美丽，可供观赏。
+	</string>
+    <string name="_139location">
+		校园常见，生千路边、荒地。除西北和东北的部分地区外，我国大部分地区都有分布。
+	</string>
+    <string name="_139supplement">
+		暂无。
+	</string>
+    <string name="_139nickname">
+		令卜花、喇叭花
+	</string>
+    <string name="title_activity_location_get">LocationGet</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
